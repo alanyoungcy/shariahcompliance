@@ -1,0 +1,3308 @@
+{
+  "qard": {
+    "file": "INTEREST-FREE LOAN AGREEMENT.pdf",
+    "sha256": "62be79a39aec801763534807c948ddf848344a0e1d483bf600ad5ce436156096",
+    "source_pages": 2,
+    "fields": [
+      {
+        "id": 1,
+        "placeholder": "_________________",
+        "before": "INTEREST-FREE LOAN AGREEMENT This AGREEMENT is made at",
+        "after": "this ___________________ day of ________________ [agreement year]. BETWEEN ____________",
+        "value": "{city}"
+      },
+      {
+        "id": 2,
+        "placeholder": "___________________",
+        "before": "INTEREST-FREE LOAN AGREEMENT This AGREEMENT is made at _________________ this",
+        "after": "day of ________________ [agreement year]. BETWEEN _____________________________________",
+        "value": "{day}"
+      },
+      {
+        "id": 3,
+        "placeholder": "________________",
+        "before": "AN AGREEMENT This AGREEMENT is made at _________________ this ___________________ day of",
+        "after": "[agreement year]. BETWEEN _____________________________________ Limited, having its pla",
+        "value": "{month}"
+      },
+      {
+        "id": 4,
+        "placeholder": "[agreement year]",
+        "before": "AGREEMENT is made at _________________ this ___________________ day of ________________",
+        "after": ". BETWEEN _____________________________________ Limited, having its place of business at",
+        "value": "{year}"
+      },
+      {
+        "id": 5,
+        "placeholder": "_____________________________________",
+        "before": "____________ this ___________________ day of ________________ [agreement year]. BETWEEN",
+        "after": "Limited, having its place of business at / resident of _______________________________ he",
+        "value": "{client_base}"
+      },
+      {
+        "id": 6,
+        "placeholder": "_______________________________",
+        "before": "__________________________________ Limited, having its place of business at / resident of",
+        "after": "hereinafter referred to as \"the Client\" (which term shall wherever the context so require",
+        "value": "{client_address}"
+      },
+      {
+        "id": 7,
+        "placeholder": "__________________________________",
+        "before": "r permits mean and include its successors-in-interest and assigns) of the ONE PART. AND",
+        "after": "Bank Limited (or financial institution), a duly incorporated banking company (or financia",
+        "value": "{institution_base}"
+      },
+      {
+        "id": 8,
+        "placeholder": "___________________",
+        "before": "y incorporated banking company (or financial institution) having its registered office at",
+        "after": "hereinafter referred as \"the Institution\" (which expression shall wherever the context so",
+        "value": "{institution_address}"
+      },
+      {
+        "id": 9,
+        "placeholder": "___________________",
+        "before": "lient an Interest Free Loan (hereinafter referred to as \"the Loan\") upto a maximum of Rs.",
+        "after": "on the terms and conditions hereinafter contained. 2. The parties hereto hereby mutually",
+        "value": "{principal}"
+      },
+      {
+        "id": 10,
+        "placeholder": "______________",
+        "before": "nt as under:- i. The Client undertake to repay the loan without any interest on or before",
+        "after": ". ii. In case the Client fails to perform as per provisions of this Agreement or any amou",
+        "value": "{end_date}"
+      },
+      {
+        "id": 11,
+        "placeholder": "________________________",
+        "before": "e for Purchase of Project Shares Appendix C Cost/Value of the Project Witness CLIENT 1.",
+        "after": "________________________ 2. ________________________ Witness INSTITUTION 1. _____________",
+        "value": "{witness1}"
+      },
+      {
+        "id": 12,
+        "placeholder": "________________________",
+        "before": "Shares Appendix C Cost/Value of the Project Witness CLIENT 1. ________________________",
+        "after": "2. ________________________ Witness INSTITUTION 1. ________________________ _____________",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 13,
+        "placeholder": "________________________",
+        "before": "lue of the Project Witness CLIENT 1. ________________________ ________________________ 2.",
+        "after": "Witness INSTITUTION 1. ________________________ ________________________ 2. _____________",
+        "value": "{witness2}"
+      },
+      {
+        "id": 14,
+        "placeholder": "________________________",
+        "before": "_____________ ________________________ 2. ________________________ Witness INSTITUTION 1.",
+        "after": "________________________ 2. ________________________",
+        "value": "{witness1}"
+      },
+      {
+        "id": 15,
+        "placeholder": "________________________",
+        "before": "_____________ 2. ________________________ Witness INSTITUTION 1. ________________________",
+        "after": "2. ________________________",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 16,
+        "placeholder": "________________________",
+        "before": "_____________ Witness INSTITUTION 1. ________________________ ________________________ 2.",
+        "after": "",
+        "value": "{witness2}"
+      }
+    ],
+    "title": "Interest-free loan (Qard)"
+  },
+  "mudarabah": {
+    "file": "MODEL MUDARABAH FINANCING AGREEMENT.pdf",
+    "sha256": "61ae5a7f739a6e6793f473f10953c28f3024eeb0329d445d43abfc878615056a",
+    "source_pages": 9,
+    "fields": [
+      {
+        "id": 1,
+        "placeholder": "__________",
+        "before": "INANCING AGREEMENT THIS AGREEMENT FOR FINANCING ON THE BASIS OF MUDARABA is made on the",
+        "after": "day of _________ [agreement year] Between [Name of the Client], ________________________",
+        "value": "{day}"
+      },
+      {
+        "id": 2,
+        "placeholder": "_________",
+        "before": "T THIS AGREEMENT FOR FINANCING ON THE BASIS OF MUDARABA is made on the __________day of",
+        "after": "[agreement year] Between [Name of the Client], _____________________________________, h",
+        "value": "{month}"
+      },
+      {
+        "id": 3,
+        "placeholder": "[agreement year]",
+        "before": "REEMENT FOR FINANCING ON THE BASIS OF MUDARABA is made on the __________day of _________",
+        "after": "Between [Name of the Client], _____________________________________, having its place o",
+        "value": "{year}"
+      },
+      {
+        "id": 4,
+        "placeholder": "[Name of the Client]",
+        "before": "E BASIS OF MUDARABA is made on the __________day of _________ [agreement year] Between",
+        "after": ", _____________________________________, having its place of business at / resident of____",
+        "value": "{client}"
+      },
+      {
+        "id": 5,
+        "placeholder": "_____________________________________",
+        "before": "s made on the __________day of _________ [agreement year] Between [Name of the Client],",
+        "after": ", having its place of business at / resident of_______________________________ hereinafter",
+        "value": "{company_registration}"
+      },
+      {
+        "id": 6,
+        "placeholder": "_______________________________",
+        "before": "ent], _____________________________________, having its place of business at / resident of",
+        "after": "hereinafter referred to as the Client (which expression shall, where the context admits,",
+        "value": "{client_address}"
+      },
+      {
+        "id": 7,
+        "placeholder": "[Name of the financial institution]",
+        "before": "d include its successors in interest and assigns) acting as Mudarib of the ONE PART; And",
+        "after": ", a banking company incorporated under the laws of Pakistan, having its Registered Office",
+        "value": "{institution}"
+      },
+      {
+        "id": 8,
+        "placeholder": "________________________",
+        "before": "banking company incorporated under the laws of Pakistan, having its Registered Office at",
+        "after": ", hereinafter referred to as the Institution, (which expression shall, where the context a",
+        "value": "{institution_address}"
+      },
+      {
+        "id": 9,
+        "placeholder": "[ ]",
+        "before": "6. Exhibit F: Authorized Signatories. 2. INVESTMENT The parties agree that a sum of Rs.",
+        "after": "by way of finance required for the Project as estimated by the Client in the Project Info",
+        "value": "{principal}"
+      },
+      {
+        "id": 10,
+        "placeholder": "____________",
+        "before": "ient in the Project Information Form shall be supplied by the Institution for a period of",
+        "after": "months hereof and deposited in the Account. 3. ACCOUNT a) The authorized signatories on",
+        "value": "12"
+      },
+      {
+        "id": 11,
+        "placeholder": "...........",
+        "before": "the date of this Agreement: The Institution is a corporation organised under the laws of",
+        "after": "and possesses all necessary powers and licenses to conduct its business and to finance th",
+        "value": "Pakistan"
+      },
+      {
+        "id": 12,
+        "placeholder": "[ ]",
+        "before": "ROFIT a) The participation in profit will be in accordance with the following ratio: (i)",
+        "after": "% of the profit will be for the Management Services and payable to the Client. (ii) [ ] %",
+        "value": "{client_share}"
+      },
+      {
+        "id": 13,
+        "placeholder": "[ ]",
+        "before": ") [ ] % of the profit will be for the Management Services and payable to the Client. (ii)",
+        "after": "% of the profit will be payable to the Institution. b) On Termination Date, the accounts",
+        "value": "{bank_share}"
+      },
+      {
+        "id": 14,
+        "placeholder": "________________________",
+        "before": "his Agreement is executed on the date above mentioned by the parties. Witnessed Witnessed",
+        "after": "The Institution 1. Name: ________________________ ________________________ The Client 2",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 15,
+        "placeholder": "________________________",
+        "before": "ed by the parties. Witnessed Witnessed ________________________ The Institution 1. Name:",
+        "after": "________________________ The Client 2. Name: ________________________",
+        "value": "{witness1}"
+      },
+      {
+        "id": 16,
+        "placeholder": "________________________",
+        "before": "sed Witnessed ________________________ The Institution 1. Name: ________________________",
+        "after": "The Client 2. Name: ________________________",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 17,
+        "placeholder": "________________________",
+        "before": "stitution 1. Name: ________________________ ________________________ The Client 2. Name:",
+        "after": "",
+        "value": "{witness2}"
+      }
+    ],
+    "title": "Mudarabah financing"
+  },
+  "syndication": {
+    "file": "MODEL SYNDICATION MUDARABAH AGREEMENT.pdf",
+    "sha256": "f42aa679d9160c8d0ce621b0f7bb89681bbf5d5a163e831dcc1e6190cae61894",
+    "source_pages": 3,
+    "fields": [
+      {
+        "id": 1,
+        "placeholder": "___________",
+        "before": "MODEL SYNDICATION MUDARABAH AGREEMENT THIS AGREEMENT is entered into this",
+        "after": "day of ___________ ________. BETWEEN [Name of Institution] a company duly organised und",
+        "value": "{day}"
+      },
+      {
+        "id": 2,
+        "placeholder": "___________",
+        "before": "L SYNDICATION MUDARABAH AGREEMENT THIS AGREEMENT is entered into this ___________ day of",
+        "after": "________. BETWEEN [Name of Institution] a company duly organised under the laws of Paki",
+        "value": "{month}"
+      },
+      {
+        "id": 3,
+        "placeholder": "________",
+        "before": "N MUDARABAH AGREEMENT THIS AGREEMENT is entered into this ___________ day of ___________",
+        "after": ". BETWEEN [Name of Institution] a company duly organised under the laws of Pakistan havi",
+        "value": "{year}"
+      },
+      {
+        "id": 4,
+        "placeholder": "[Name of Institution]",
+        "before": "T THIS AGREEMENT is entered into this ___________ day of ___________ ________. BETWEEN",
+        "after": "a company duly organised under the laws of Pakistan having its registered office at [addr",
+        "value": "{institution}"
+      },
+      {
+        "id": 5,
+        "placeholder": "[address]",
+        "before": "tion] a company duly organised under the laws of Pakistan having its registered office at",
+        "after": "(hereinafter referred to as the Mudarib). AND [name of the investing person/company/bod",
+        "value": "{institution_address}"
+      },
+      {
+        "id": 6,
+        "placeholder": "[name of the investing person/company/body]",
+        "before": "having its registered office at [address] (hereinafter referred to as the Mudarib). AND",
+        "after": ", _____________________________________, having its place of business at / resident of ___",
+        "value": "{investor}"
+      },
+      {
+        "id": 7,
+        "placeholder": "_____________________________________",
+        "before": "reinafter referred to as the Mudarib). AND [name of the investing person/company/body],",
+        "after": ", having its place of business at / resident of _______________________________ (hereinaft",
+        "value": "{investor_registration}"
+      },
+      {
+        "id": 8,
+        "placeholder": "_______________________________",
+        "before": "dy], _____________________________________, having its place of business at / resident of",
+        "after": "(hereinafter referred to as Rab Al-Maal). WHEREAS, the Mudarib is a financing institutio",
+        "value": "{investor_address}"
+      },
+      {
+        "id": 9,
+        "placeholder": "[name\n\nand address of Client]",
+        "before": "iah; WHEREAS, the Mudarib is currently entering into a Murabaha Financing Agreement with",
+        "after": "(hereinafter referred to as the Client) to finance the acquisition of materials (hereinaf",
+        "value": "{client_contact}"
+      },
+      {
+        "id": 10,
+        "placeholder": "[currency and amount]",
+        "before": "e Goods) WHEREAS, the Rab Al-Maal desires to invest, among other investors, an amount of",
+        "after": "for the financing of the said Goods in accordance with the terms and conditions of the Mu",
+        "value": "{principal_currency}"
+      },
+      {
+        "id": 11,
+        "placeholder": "________________",
+        "before": "ods in accordance with the terms and conditions of the Murabaha Financing Agreement dated",
+        "after": "between Mudarib and Client. THEREFORE, the parties hereto agreed upon the following: 1.",
+        "value": "{sale_date}"
+      },
+      {
+        "id": 12,
+        "placeholder": "(currency and amount)",
+        "before": "n the following: 1. The Rab Al-Maal hereby agrees to entrust to the Mudarib an amount of",
+        "after": "to be invested together with the other investors' funds for the purpose of acquisition of",
+        "value": "{principal_currency}"
+      },
+      {
+        "id": 13,
+        "placeholder": "[ ]",
+        "before": "istributed on a pro-rata basis to the investors including the Rab Al-Maal as follows: (i)",
+        "after": "% of the profit on a pro-rata basis to the Rab Al-Maal; (ii) [ ] % of the profit to the M",
+        "value": "{bank_share}"
+      },
+      {
+        "id": 14,
+        "placeholder": "[ ]",
+        "before": "Al-Maal as follows: (i) [ ] % of the profit on a pro-rata basis to the Rab Al-Maal; (ii)",
+        "after": "% of the profit to the Mudarib. The profit distribution formula given above may be amende",
+        "value": "{client_share}"
+      },
+      {
+        "id": 15,
+        "placeholder": "......................",
+        "before": "onding payments from the Client in accordance with the Murabaha Financing Agreement dated",
+        "after": "8. It is understood and acknowledged by the Mudarib that any collateral or security held",
+        "value": "{sale_date}"
+      },
+      {
+        "id": 16,
+        "placeholder": "[ ]",
+        "before": "y the law of Islamic Republic of Pakistan. Any court of competent jurisdiction located at",
+        "after": "shall have the jurisdiction to adjudicate upon all disputes and differences in connection",
+        "value": "{city}"
+      },
+      {
+        "id": 17,
+        "placeholder": "[ ]",
+        "before": "ferences in connection with this Agreement. 12. This Agreement shall become effective on",
+        "after": "and shall continue to be valid up to [ ]. ____________________ __________________ Mudari",
+        "value": "{date}"
+      },
+      {
+        "id": 18,
+        "placeholder": "[ ]",
+        "before": "t. 12. This Agreement shall become effective on [ ] and shall continue to be valid up to",
+        "after": ". ____________________ __________________ Mudarib Rab-Al-Maal (Duly authorized signatory)",
+        "value": "{end_date}"
+      },
+      {
+        "id": 19,
+        "placeholder": "____________________",
+        "before": ". This Agreement shall become effective on [ ] and shall continue to be valid up to [ ].",
+        "after": "__________________ Mudarib Rab-Al-Maal (Duly authorized signatory) (Duly authorized signa",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 20,
+        "placeholder": "__________________",
+        "before": "l become effective on [ ] and shall continue to be valid up to [ ]. ____________________",
+        "after": "Mudarib Rab-Al-Maal (Duly authorized signatory) (Duly authorized signatory) Witnessed 1.",
+        "value": "{signature_investor}"
+      },
+      {
+        "id": 21,
+        "placeholder": "________________________",
+        "before": "ib Rab-Al-Maal (Duly authorized signatory) (Duly authorized signatory) Witnessed 1. Name:",
+        "after": "Signature: ________________________ 1. Name: ________________________ Signature: _______",
+        "value": "{witness1}"
+      },
+      {
+        "id": 22,
+        "placeholder": "________________________",
+        "before": "atory) (Duly authorized signatory) Witnessed 1. Name: ________________________ Signature:",
+        "after": "1. Name: ________________________ Signature: ________________________ EXHIBIT A PROJECT",
+        "value": "{signature_witness1}"
+      },
+      {
+        "id": 23,
+        "placeholder": "________________________",
+        "before": "Witnessed 1. Name: ________________________ Signature: ________________________ 1. Name:",
+        "after": "Signature: ________________________ EXHIBIT A PROJECT INFORMATION FORM EXHIBIT B CASH FL",
+        "value": "{witness2}"
+      },
+      {
+        "id": 24,
+        "placeholder": "________________________",
+        "before": "_______ Signature: ________________________ 1. Name: ________________________ Signature:",
+        "after": "EXHIBIT A PROJECT INFORMATION FORM EXHIBIT B CASH FLOW AND REVENUE PROJECTION FOR PROJEC",
+        "value": "{signature_witness2}"
+      }
+    ],
+    "title": "Syndication Mudarabah"
+  },
+  "murabaha": {
+    "file": "MODEL MURABAHA FACILITY AGREEMENT.pdf",
+    "sha256": "dc95306f7c253ed038193ca18b487df3405003337c90a59383a4711936e653f5",
+    "source_pages": 17,
+    "fields": [
+      {
+        "id": 1,
+        "placeholder": "_____",
+        "before": "e Clients-local purchases THIS MURABAHA FACILITY AGREEMENT (this \"Agreement\") is made at",
+        "after": "on ___ day of _____ by and BETWEEN ______________________________________, (hereinafter",
+        "value": "{city}"
+      },
+      {
+        "id": 2,
+        "placeholder": "___",
+        "before": "s-local purchases THIS MURABAHA FACILITY AGREEMENT (this \"Agreement\") is made at_____on",
+        "after": "day of _____ by and BETWEEN ______________________________________, (hereinafter referr",
+        "value": "{day}"
+      },
+      {
+        "id": 3,
+        "placeholder": "_____",
+        "before": "chases THIS MURABAHA FACILITY AGREEMENT (this \"Agreement\") is made at_____on ___ day of",
+        "after": "by and BETWEEN ______________________________________, (hereinafter referred to as the",
+        "value": "{month_year}"
+      },
+      {
+        "id": 4,
+        "placeholder": "______________________________________",
+        "before": "ACILITY AGREEMENT (this \"Agreement\") is made at_____on ___ day of _____ by and BETWEEN",
+        "after": ", (hereinafter referred to as the \"Client\" which expression shall where the context so per",
+        "value": "{client}"
+      },
+      {
+        "id": 5,
+        "placeholder": "______________________________________",
+        "before": "mean and include its successors in interest and permitted assigns) of the one part AND",
+        "after": ", (hereinafter referred to as the \"Institution\" which expression shall where the context s",
+        "value": "{institution}"
+      },
+      {
+        "id": 6,
+        "placeholder": "___",
+        "before": "ith acquisition of Goods; \"Contract Price\" means aggregate of Cost Price and a Profit of",
+        "after": "per cent calculated thereon payable by the Client to the Institution for Goods as stipula",
+        "value": "{profit_rate}"
+      },
+      {
+        "id": 7,
+        "placeholder": "(insert description of assets in respect of which charge/mortgage may be created)",
+        "before": "e supplier from whom the Institution acquires Title to the Goods; \"Secured Assets\" means",
+        "after": "offered as security by the Client; \"Rupees\" or \"Rs.\" means the lawful currency of Pakist",
+        "value": "{collateral}"
+      },
+      {
+        "id": 8,
+        "placeholder": "____________",
+        "before": "ODS 2.01 The Institution agrees to sell the Goods to the Client to a maximum amount of Rs",
+        "after": "and the Client agrees to purchase the Goods from the Institution from time to time at the",
+        "value": "{sale_price}"
+      },
+      {
+        "id": 9,
+        "placeholder": "____",
+        "before": "tened against the Client or any of its assets; f. It shall inform the Institution within",
+        "after": "business days of an event or happening which may have an adverse effect on the financial",
+        "value": "3"
+      },
+      {
+        "id": 10,
+        "placeholder": "___",
+        "before": "receipt by the Institution (in form and substance acceptable to the Institution) at least",
+        "after": "Business Days prior to the Value Date of: (i) Documentary evidence that: (a) This Agree",
+        "value": "3"
+      },
+      {
+        "id": 11,
+        "placeholder": "____",
+        "before": "Client. (iii) Certified copies of the Client's audited financial statements for the last",
+        "after": "years (iv) The Purchase Requisition. 8.02 The obligation of the Institution to pay the",
+        "value": "3"
+      },
+      {
+        "id": 12,
+        "placeholder": "___________________________",
+        "before": "d to be incorrect; (b) Any Indebtedness of the Client to the Institution in excess of Rs.",
+        "after": "(Rupees ______________________________ only) is not paid when due or becomes due or capab",
+        "value": "{threshold}"
+      },
+      {
+        "id": 13,
+        "placeholder": "______________________________",
+        "before": "ness of the Client to the Institution in excess of Rs.___________________________ (Rupees",
+        "after": "only) is not paid when due or becomes due or capable of being declared due prior to its s",
+        "value": "{threshold_words}"
+      },
+      {
+        "id": 14,
+        "placeholder": "------",
+        "before": "to pay directly to the Charity Fund, constituted by the Institution, a sum calculated @",
+        "after": "% per annum for the entire period of default, calculated on the total amount of the obliga",
+        "value": "0"
+      },
+      {
+        "id": 15,
+        "placeholder": "________",
+        "before": "verned by and shall be construed in accordance with Pakistan law. All competent courts at",
+        "after": "shall have the non-exclusive jurisdiction to hear and determine any action, claim or proc",
+        "value": "{city}"
+      },
+      {
+        "id": 16,
+        "placeholder": "________________",
+        "before": "caused this Agreement to be duly executed on the date and year first aforementioned. To:",
+        "after": "___________________ AGENCY AGREEMENT With reference to the Murabaha Facility Agreement d",
+        "value": "{client}"
+      },
+      {
+        "id": 17,
+        "placeholder": "___________________",
+        "before": "ment to be duly executed on the date and year first aforementioned. To: ________________",
+        "after": "AGENCY AGREEMENT With reference to the Murabaha Facility Agreement dated _______________",
+        "value": "{client_address}"
+      },
+      {
+        "id": 18,
+        "placeholder": "_______________",
+        "before": "________________ AGENCY AGREEMENT With reference to the Murabaha Facility Agreement dated",
+        "after": ", we hereby confirm our agreement to appoint you as our Agent to acquire for our account",
+        "value": "{date}"
+      },
+      {
+        "id": 19,
+        "placeholder": "[insert name of the Institution]",
+        "before": "- ABC Company'). 3. In case of failure on your part to:- WITNESSES: For and on behalf of",
+        "after": "1 ________________ ________________ 2 ________________ ________________ For and on behalf",
+        "value": "{institution}"
+      },
+      {
+        "id": 20,
+        "placeholder": "________________",
+        "before": "ure on your part to:- WITNESSES: For and on behalf of [insert name of the Institution] 1",
+        "after": "________________ 2 ________________ ________________ For and on behalf of 1 _____________",
+        "value": "{witness1}"
+      },
+      {
+        "id": 21,
+        "placeholder": "________________",
+        "before": "to:- WITNESSES: For and on behalf of [insert name of the Institution] 1 ________________",
+        "after": "2 ________________ ________________ For and on behalf of 1 ________________ _____________",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 22,
+        "placeholder": "________________",
+        "before": "r and on behalf of [insert name of the Institution] 1 ________________ ________________ 2",
+        "after": "________________ For and on behalf of 1 ________________ ________________ 2 _____________",
+        "value": "{witness2}"
+      },
+      {
+        "id": 23,
+        "placeholder": "________________",
+        "before": "f [insert name of the Institution] 1 ________________ ________________ 2 ________________",
+        "after": "For and on behalf of 1 ________________ ________________ 2 ________________ _____________",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 24,
+        "placeholder": "________________",
+        "before": "_____________ ________________ 2 ________________ ________________ For and on behalf of 1",
+        "after": "________________ 2 ________________ ________________ a) Acquire goods in terms of this a",
+        "value": "{witness1}"
+      },
+      {
+        "id": 25,
+        "placeholder": "________________",
+        "before": "_____________ 2 ________________ ________________ For and on behalf of 1 ________________",
+        "after": "2 ________________ ________________ a) Acquire goods in terms of this agreement and to r",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 26,
+        "placeholder": "________________",
+        "before": "_____________ ________________ For and on behalf of 1 ________________ ________________ 2",
+        "after": "________________ a) Acquire goods in terms of this agreement and to refund, in consequen",
+        "value": "{witness2}"
+      },
+      {
+        "id": 27,
+        "placeholder": "________________",
+        "before": "_____________ For and on behalf of 1 ________________ ________________ 2 ________________",
+        "after": "a) Acquire goods in terms of this agreement and to refund, in consequence, the amount pa",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 28,
+        "placeholder": "_______________",
+        "before": "be governed by the prevailing laws of Pakistan and the Murabaha Facility Agreement dated",
+        "after": ". Any dispute between the parties shall be submitted to a Court/Tribunal of competent juri",
+        "value": "{date}"
+      },
+      {
+        "id": 29,
+        "placeholder": "__________",
+        "before": "e between the parties shall be submitted to a Court/Tribunal of competent jurisdiction in",
+        "after": ". Kindly signify your acceptance of the foregoing terms and conditions by signing the dupl",
+        "value": "{city}"
+      },
+      {
+        "id": 30,
+        "placeholder": "(insert name of the Institution)",
+        "before": "ance of the foregoing terms and conditions by signing the duplicate. For and on behalf of",
+        "after": "___________________________ AUTHORISED SIGNATORY OF THE INSTITUTION AGREED AND ACCEPTE",
+        "value": "{institution}"
+      },
+      {
+        "id": 31,
+        "placeholder": "___________________________",
+        "before": "nditions by signing the duplicate. For and on behalf of (insert name of the Institution)",
+        "after": "AUTHORISED SIGNATORY OF THE INSTITUTION AGREED AND ACCEPTED For and on behalf of [inser",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 32,
+        "placeholder": "[insert name]",
+        "before": "______ AUTHORISED SIGNATORY OF THE INSTITUTION AGREED AND ACCEPTED For and on behalf of",
+        "after": "___________________________________ AUTHORISED SIGNATORY OF THE AGENT WITNESSES: 1___",
+        "value": "{client}"
+      },
+      {
+        "id": 33,
+        "placeholder": "___________________________________",
+        "before": "SED SIGNATORY OF THE INSTITUTION AGREED AND ACCEPTED For and on behalf of [insert name]",
+        "after": "AUTHORISED SIGNATORY OF THE AGENT WITNESSES: 1________________ 2________________ PURC",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 34,
+        "placeholder": "________________",
+        "before": "me] ___________________________________ AUTHORISED SIGNATORY OF THE AGENT WITNESSES: 1",
+        "after": "2________________ PURCHASE REQUISITION S. No.___________ Date: ___________ To: _______",
+        "value": "{witness1}"
+      },
+      {
+        "id": 35,
+        "placeholder": "________________",
+        "before": "______________________ AUTHORISED SIGNATORY OF THE AGENT WITNESSES: 1________________ 2",
+        "after": "PURCHASE REQUISITION S. No.___________ Date: ___________ To: _________________________",
+        "value": "{witness2}"
+      },
+      {
+        "id": 36,
+        "placeholder": "___________",
+        "before": "OF THE AGENT WITNESSES: 1________________ 2________________ PURCHASE REQUISITION S. No.",
+        "after": "Date: ___________ To: ___________________________ [Insert name and address of the Insti",
+        "value": "{reference}"
+      },
+      {
+        "id": 37,
+        "placeholder": "___________",
+        "before": "SSES: 1________________ 2________________ PURCHASE REQUISITION S. No.___________ Date:",
+        "after": "To: ___________________________ [Insert name and address of the Institution] __________",
+        "value": "{date}"
+      },
+      {
+        "id": 38,
+        "placeholder": "___________________________",
+        "before": "_______ 2________________ PURCHASE REQUISITION S. No.___________ Date: ___________ To:",
+        "after": "[Insert name and address of the Institution] ___________________________ ______________",
+        "value": "{institution}"
+      },
+      {
+        "id": 39,
+        "placeholder": "[Insert name and address of the Institution]",
+        "before": "URCHASE REQUISITION S. No.___________ Date: ___________ To: ___________________________",
+        "after": "___________________________ ___________________________ Dear Sirs, PURCHASE REQUISITION",
+        "value": "{institution_contact}"
+      },
+      {
+        "id": 40,
+        "placeholder": "___________________________",
+        "before": "__________ To: ___________________________ [Insert name and address of the Institution]",
+        "after": "___________________________ Dear Sirs, PURCHASE REQUISITION FOR PURCHASE OF THE GOODS M",
+        "value": "{institution_address}"
+      },
+      {
+        "id": 41,
+        "placeholder": "___________________________",
+        "before": "______________ [Insert name and address of the Institution] ___________________________",
+        "after": "Dear Sirs, PURCHASE REQUISITION FOR PURCHASE OF THE GOODS MURABAHA FACILITY AGREEMENT DA",
+        "value": "{city}"
+      },
+      {
+        "id": 42,
+        "placeholder": "[______]",
+        "before": "RABAHA FACILITY AGREEMENT DATED (1) Please refer to the Murabaha Facility Agreement dated",
+        "after": "(the \"Agreement\") between [insert name of the Client] (the \"Client\") (of the first part)",
+        "value": "{date}"
+      },
+      {
+        "id": 43,
+        "placeholder": "[insert name of the Client]",
+        "before": "Please refer to the Murabaha Facility Agreement dated [______] (the \"Agreement\") between",
+        "after": "(the \"Client\") (of the first part) and [insert name of the Institution] (the \"Institution",
+        "value": "{client}"
+      },
+      {
+        "id": 44,
+        "placeholder": "[insert name of the Institution]",
+        "before": "e \"Agreement\") between [insert name of the Client] (the \"Client\") (of the first part) and",
+        "after": "(the \"Institution\") (of the second part). (2) All terms defined in the Agreement bear th",
+        "value": "{institution}"
+      },
+      {
+        "id": 45,
+        "placeholder": "____________________",
+        "before": "Agreement as follows: (a) Goods as detailed in Murabaha Document # 3/2: (b) Cost Price:",
+        "after": "(c) Value Date: ___________________ (4) Please make arrangements to pay the Cost Price t",
+        "value": "{principal_currency}"
+      },
+      {
+        "id": 46,
+        "placeholder": "___________________",
+        "before": "tailed in Murabaha Document # 3/2: (b) Cost Price: ____________________ (c) Value Date:",
+        "after": "(4) Please make arrangements to pay the Cost Price to the account of _______________on th",
+        "value": "{purchase_date}"
+      },
+      {
+        "id": 47,
+        "placeholder": "_______________",
+        "before": "___________________ (4) Please make arrangements to pay the Cost Price to the account of",
+        "after": "on the Value Date in immediately available funds. (5) All the terms and conditions of the",
+        "value": "{supplier_account}"
+      },
+      {
+        "id": 48,
+        "placeholder": "______________________",
+        "before": "an integral part of this Requisition. Yours faithfully, For and on Behalf of the Client",
+        "after": "_____________________________________________________________________________________ I",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 49,
+        "placeholder": "_____________________________________________________________________________________",
+        "before": "s Requisition. Yours faithfully, For and on Behalf of the Client ______________________",
+        "after": "INSTITUTION'S INSTRUCTIONS No. _____________ Date: _____________ _____________________",
+        "value": "{company_registration}"
+      },
+      {
+        "id": 50,
+        "placeholder": "_____________",
+        "before": "_________________________________________________________ INSTITUTION'S INSTRUCTIONS No.",
+        "after": "Date: _____________ _____________________ _____________________ _____________________",
+        "value": "{reference}"
+      },
+      {
+        "id": 51,
+        "placeholder": "_____________",
+        "before": "____________________________________ INSTITUTION'S INSTRUCTIONS No. _____________ Date:",
+        "after": "_____________________ _____________________ _____________________ Dear Sir, You are he",
+        "value": "{date}"
+      },
+      {
+        "id": 52,
+        "placeholder": "_____________________",
+        "before": "______________________ INSTITUTION'S INSTRUCTIONS No. _____________ Date: _____________",
+        "after": "_____________________ _____________________ Dear Sir, You are hereby instructed to exe",
+        "value": "{client}"
+      },
+      {
+        "id": 53,
+        "placeholder": "_____________________",
+        "before": "INSTITUTION'S INSTRUCTIONS No. _____________ Date: _____________ _____________________",
+        "after": "_____________________ Dear Sir, You are hereby instructed to execute the aforesaid Purc",
+        "value": "{client_address}"
+      },
+      {
+        "id": 54,
+        "placeholder": "_____________________",
+        "before": "IONS No. _____________ Date: _____________ _____________________ _____________________",
+        "after": "Dear Sir, You are hereby instructed to execute the aforesaid Purchase Requisition for an",
+        "value": "{city}"
+      },
+      {
+        "id": 55,
+        "placeholder": "______________________",
+        "before": "in the manner, to the extent and for the Goods stipulated therein. For and on Behalf of",
+        "after": "(Insert Institution's name) DETAILS OF GOODS TO BE PURCHASED (To be attached to Purchas",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 56,
+        "placeholder": "(Insert Institution's name)",
+        "before": "xtent and for the Goods stipulated therein. For and on Behalf of ______________________",
+        "after": "DETAILS OF GOODS TO BE PURCHASED (To be attached to Purchase Requisition) Address: _____",
+        "value": "{institution}"
+      },
+      {
+        "id": 57,
+        "placeholder": "______________________________________________________________________",
+        "before": "name) DETAILS OF GOODS TO BE PURCHASED (To be attached to Purchase Requisition) Address:",
+        "after": "R E C E I P T Received with thanks Pay Order/Cross cheque, in the name of Supplier from",
+        "value": "{supplier_address}"
+      },
+      {
+        "id": 58,
+        "placeholder": "_______________________________________________________________",
+        "before": "R E C E I P T Received with thanks Pay Order/Cross cheque, in the name of Supplier from",
+        "after": "branch,amounting to Rs._____________________________ (Rupees ____________________________",
+        "value": "{institution_branch}"
+      },
+      {
+        "id": 59,
+        "placeholder": "_____________________________",
+        "before": "om _______________________________________________________________ branch,amounting to Rs.",
+        "after": "(Rupees _____________________________________ only) for the purchase of goods in respect",
+        "value": "{principal}"
+      },
+      {
+        "id": 60,
+        "placeholder": "_____________________________________",
+        "before": "____________________________ branch,amounting to Rs._____________________________ (Rupees",
+        "after": "only) for the purchase of goods in respect of which a Quotation date ____________________",
+        "value": "{principal_words}"
+      },
+      {
+        "id": 61,
+        "placeholder": "______________________________",
+        "before": "____________________ only) for the purchase of goods in respect of which a Quotation date",
+        "after": "has been issued by M/S _______________________________________________________. In the ev",
+        "value": "{date}"
+      },
+      {
+        "id": 62,
+        "placeholder": "_______________________________________________________",
+        "before": "n respect of which a Quotation date ______________________________ has been issued by M/S",
+        "after": ". In the event of failure on the part of the Supplier to supply the said goods within the",
+        "value": "{supplier}"
+      },
+      {
+        "id": 63,
+        "placeholder": "_____________",
+        "before": "Purchase Requisition, I/We undertake and agree to refund/reimburse the full amount of Rs.",
+        "after": "and all cost and consequences under and in terms of the Agency Agreement. Name of Supplie",
+        "value": "{principal}"
+      },
+      {
+        "id": 64,
+        "placeholder": "____________________________",
+        "before": "all cost and consequences under and in terms of the Agency Agreement. Name of Supplier :",
+        "after": "Date:____________ For and on behalf of [Insert name of the Agent] _____________________",
+        "value": "{supplier}"
+      },
+      {
+        "id": 65,
+        "placeholder": "____________",
+        "before": "nd in terms of the Agency Agreement. Name of Supplier : ____________________________ Date:",
+        "after": "For and on behalf of [Insert name of the Agent] ______________________ Authorized Sign",
+        "value": "{purchase_date}"
+      },
+      {
+        "id": 66,
+        "placeholder": "[Insert name of the Agent]",
+        "before": "Name of Supplier : ____________________________ Date:____________ For and on behalf of",
+        "after": "______________________ Authorized Signatory Date: ______________________ DECLARATION (",
+        "value": "{client}"
+      },
+      {
+        "id": 67,
+        "placeholder": "______________________",
+        "before": "_____________________ Date:____________ For and on behalf of [Insert name of the Agent]",
+        "after": "Authorized Signatory Date: ______________________ DECLARATION (Part-I) CONFIRMATION O",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 68,
+        "placeholder": "______________________",
+        "before": "behalf of [Insert name of the Agent] ______________________ Authorized Signatory Date:",
+        "after": "DECLARATION (Part-I) CONFIRMATION OF GOODS PURCHASED Date: _______________ Messrs. __",
+        "value": "{purchase_date}"
+      },
+      {
+        "id": 69,
+        "placeholder": "_______________",
+        "before": "ate: ______________________ DECLARATION (Part-I) CONFIRMATION OF GOODS PURCHASED Date:",
+        "after": "Messrs. _________________________ With reference to the Agency Agreement dated ________",
+        "value": "{purchase_date}"
+      },
+      {
+        "id": 70,
+        "placeholder": "_________________________",
+        "before": "__ DECLARATION (Part-I) CONFIRMATION OF GOODS PURCHASED Date: _______________ Messrs.",
+        "after": "With reference to the Agency Agreement dated _________ and the Institution's instruction",
+        "value": "{institution}"
+      },
+      {
+        "id": 71,
+        "placeholder": "_________",
+        "before": "________ Messrs. _________________________ With reference to the Agency Agreement dated",
+        "after": "and the Institution's instructions contained in Murabaha Document # 3/1, we hereby declar",
+        "value": "{date}"
+      },
+      {
+        "id": 72,
+        "placeholder": "_________________________________________",
+        "before": "Agent, we have delivered the payment order/ Cross Cheque given by your good selves to M/s",
+        "after": "and purchased on your behalf the Goods as detailed in Murabaha Document # 3/2). Further t",
+        "value": "{supplier}"
+      },
+      {
+        "id": 73,
+        "placeholder": "_____________________________",
+        "before": "s of bill/cash memo/invoice issued in the name of \"Ist Islamic Bank - ABC Company\" by M/s",
+        "after": "are attached. For and on behalf of [insert Agent's name] ________________________ AUTHOR",
+        "value": "{supplier}"
+      },
+      {
+        "id": 74,
+        "placeholder": "[insert Agent's name]",
+        "before": "ank - ABC Company\" by M/s _____________________________are attached. For and on behalf of",
+        "after": "________________________ AUTHORISED SIGNATORY (Part-II) OFFER TO PURCHASE I/We offer",
+        "value": "{client}"
+      },
+      {
+        "id": 75,
+        "placeholder": "________________________",
+        "before": "/s _____________________________are attached. For and on behalf of [insert Agent's name]",
+        "after": "AUTHORISED SIGNATORY (Part-II) OFFER TO PURCHASE I/We offer to purchase the above Good",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 76,
+        "placeholder": "______________________",
+        "before": "R TO PURCHASE I/We offer to purchase the above Goods from you for a Contract Price of Rs.",
+        "after": "(Rupees ________________________________________ only). I/We undertake to pay the Contrac",
+        "value": "{sale_price}"
+      },
+      {
+        "id": 77,
+        "placeholder": "________________________________________",
+        "before": "chase the above Goods from you for a Contract Price of Rs. ______________________ (Rupees",
+        "after": "only). I/We undertake to pay the Contract Price referred to above in lump sum on _______,",
+        "value": "{sale_price_words}"
+      },
+      {
+        "id": 78,
+        "placeholder": "_______",
+        "before": "________ only). I/We undertake to pay the Contract Price referred to above in lump sum on",
+        "after": ", or in __________installments, if agreed by the Institution, as per the attached schedule",
+        "value": "{end_date}"
+      },
+      {
+        "id": 79,
+        "placeholder": "__________",
+        "before": "I/We undertake to pay the Contract Price referred to above in lump sum on _______, or in",
+        "after": "installments, if agreed by the Institution, as per the attached schedule (Murabaha Documen",
+        "value": "12"
+      },
+      {
+        "id": 80,
+        "placeholder": "[Insert Agent's name]",
+        "before": "e Institution, as per the attached schedule (Murabaha Document # 6). For and on behalf of",
+        "after": "AUTHORISED SIGNATORY Date: (Part-III) INSTITUTION'S ACCEPTANCE We have accepted your o",
+        "value": "{client}"
+      },
+      {
+        "id": 81,
+        "placeholder": "_________",
+        "before": "ioned Goods to you on the following terms and conditions. 1) The Contract Price is Pak Rs.",
+        "after": "(Rupees only) comprising cost incurred Rs._________ , plus Profit Rs. __________ (Rupees_",
+        "value": "{sale_price}"
+      },
+      {
+        "id": 82,
+        "placeholder": "_________",
+        "before": "ions. 1) The Contract Price is Pak Rs._________ (Rupees only) comprising cost incurred Rs.",
+        "after": ", plus Profit Rs. __________ (Rupees___________________________). 2) The Contract Price s",
+        "value": "{principal}"
+      },
+      {
+        "id": 83,
+        "placeholder": "__________",
+        "before": "is Pak Rs._________ (Rupees only) comprising cost incurred Rs._________ , plus Profit Rs.",
+        "after": "(Rupees___________________________). 2) The Contract Price stated above shall be payable",
+        "value": "{profit}"
+      },
+      {
+        "id": 84,
+        "placeholder": "___________________________",
+        "before": "_ (Rupees only) comprising cost incurred Rs._________ , plus Profit Rs. __________ (Rupees",
+        "after": "). 2) The Contract Price stated above shall be payable in lump sum on __________ or in ___",
+        "value": "{profit_words}"
+      },
+      {
+        "id": 85,
+        "placeholder": "__________",
+        "before": "____________________). 2) The Contract Price stated above shall be payable in lump sum on",
+        "after": "or in _____installments, as per the attached schedule (Murabaha Document # 6). For and on",
+        "value": "{end_date}"
+      },
+      {
+        "id": 86,
+        "placeholder": "_____",
+        "before": "___). 2) The Contract Price stated above shall be payable in lump sum on __________ or in",
+        "after": "installments, as per the attached schedule (Murabaha Document # 6). For and on behalf of [",
+        "value": "12"
+      },
+      {
+        "id": 87,
+        "placeholder": "[Insert name of the Institution]",
+        "before": "_installments, as per the attached schedule (Murabaha Document # 6). For and on behalf of",
+        "after": "______________________ ______________________ AUTHORISED SIGNATORY AUTHORISED SIGNATORY",
+        "value": "{institution}"
+      },
+      {
+        "id": 88,
+        "placeholder": "______________________",
+        "before": "d schedule (Murabaha Document # 6). For and on behalf of [Insert name of the Institution]",
+        "after": "______________________ AUTHORISED SIGNATORY AUTHORISED SIGNATORY Date: Date: SCHEDULE O",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 89,
+        "placeholder": "______________________",
+        "before": "cument # 6). For and on behalf of [Insert name of the Institution] ______________________",
+        "after": "AUTHORISED SIGNATORY AUTHORISED SIGNATORY Date: Date: SCHEDULE OF PAYMENTS OF CONTRACT",
+        "value": "{signature_client}"
+      }
+    ],
+    "title": "Murabaha facility"
+  },
+  "musawamah": {
+    "file": "MODEL MUSAWAMAH FACILITY AGREEMENT.pdf",
+    "sha256": "31b87c819efcd52081a6a76454eb2bf6365937189b6cf747631afeec105ea65f",
+    "source_pages": 19,
+    "fields": [
+      {
+        "id": 1,
+        "placeholder": "___________",
+        "before": "LITY AGREEMENT Document 1 THIS MUSAWAMA FACILITY AGREEMENT (this \"Agreement\") is made at",
+        "after": "on ______ day of ______ by and BETWEEN ________________________________________________",
+        "value": "{city}"
+      },
+      {
+        "id": 2,
+        "placeholder": "______",
+        "before": "Document 1 THIS MUSAWAMA FACILITY AGREEMENT (this \"Agreement\") is made at___________ on",
+        "after": "day of ______ by and BETWEEN ________________________________________________________,",
+        "value": "{day}"
+      },
+      {
+        "id": 3,
+        "placeholder": "______",
+        "before": "IS MUSAWAMA FACILITY AGREEMENT (this \"Agreement\") is made at___________ on ______ day of",
+        "after": "by and BETWEEN ________________________________________________________, (hereinafter r",
+        "value": "{month_year}"
+      },
+      {
+        "id": 4,
+        "placeholder": "________________________________________________________",
+        "before": "EEMENT (this \"Agreement\") is made at___________ on ______ day of ______ by and BETWEEN",
+        "after": ", (hereinafter referred to as the \"Client\" which expression shall where the context so per",
+        "value": "{client}"
+      },
+      {
+        "id": 5,
+        "placeholder": "________________________________________________________",
+        "before": "mean and include its successors in interest and permitted assigns) of the one part AND",
+        "after": ", (hereinafter referred to as the \"Institution\" which expression shall where the context s",
+        "value": "{institution}"
+      },
+      {
+        "id": 6,
+        "placeholder": "(insert description of assets in respect of which charge/mortgage may be created)",
+        "before": "e supplier from whom the Institution acquires Title to the Goods; \"Secured Assets\" means",
+        "after": "offered as security by the Client; \"Receipt\" means a confirmation by the Agent of the In",
+        "value": "{collateral}"
+      },
+      {
+        "id": 7,
+        "placeholder": "_______________",
+        "before": "ODS 2.01 The Institution agrees to sell the Goods to the Client to a maximum amount of Rs",
+        "after": "and the Client agrees to purchase the Goods from the Institution from time to time at the",
+        "value": "{sale_price}"
+      },
+      {
+        "id": 8,
+        "placeholder": "____",
+        "before": "tened against the Client or any of its assets; e. It shall inform the Institution within",
+        "after": "business days of an event or happening which may have an adverse effect on the financial",
+        "value": "3"
+      },
+      {
+        "id": 9,
+        "placeholder": "___",
+        "before": "receipt by the Institution (in form and substance acceptable to the Institution) at least",
+        "after": "Business Days prior to the Value Date of: a)Documentary evidence that: i) This Agreement",
+        "value": "3"
+      },
+      {
+        "id": 10,
+        "placeholder": "____",
+        "before": "he Client. c) Certified copies of the Client's audited financial statements for the last",
+        "after": "years d) The Purchase Requisition. 8.02 The obligation of the Institution to pay the Co",
+        "value": "3"
+      },
+      {
+        "id": 11,
+        "placeholder": "__________________________",
+        "before": "d to be incorrect; (b) Any Indebtedness of the Client to the Institution in excess of Rs.",
+        "after": "(Rupees __________________________________only) is not paid when due or becomes due or ca",
+        "value": "{threshold}"
+      },
+      {
+        "id": 12,
+        "placeholder": "__________________________________",
+        "before": "dness of the Client to the Institution in excess of Rs.__________________________ (Rupees",
+        "after": "only) is not paid when due or becomes due or capable of being declared due prior to its st",
+        "value": "{threshold_words}"
+      },
+      {
+        "id": 13,
+        "placeholder": "------",
+        "before": "s to pay directly to the Charity Fund, constituted by the Institution, a sum calculated @",
+        "after": "% per annum for the entire period of default, calculated on the total amount of the obliga",
+        "value": "0"
+      },
+      {
+        "id": 14,
+        "placeholder": "________",
+        "before": "verned by and shall be construed in accordance with Pakistan law. All competent courts at",
+        "after": "shall have the non-exclusive jurisdiction to hear and determine any action, claim or proc",
+        "value": "{city}"
+      },
+      {
+        "id": 15,
+        "placeholder": "_______________",
+        "before": "AGENCY AGREEMENT (If Required) With reference to the Musawamah Facility Agreement dated",
+        "after": ", we hereby confirm our agreement to appoint you as our Agent to acquire for our account",
+        "value": "{date}"
+      },
+      {
+        "id": 16,
+        "placeholder": "[insert name of the Institution]",
+        "before": "commercial banks, as on the date of such default by you. WITNESSES: For and on behalf of",
+        "after": "1 ________________ ________________ 2 ________________ ________________ For and on behalf",
+        "value": "{institution}"
+      },
+      {
+        "id": 17,
+        "placeholder": "________________",
+        "before": "f such default by you. WITNESSES: For and on behalf of [insert name of the Institution] 1",
+        "after": "________________ 2 ________________ ________________ For and on behalf of 1 _____________",
+        "value": "{witness1}"
+      },
+      {
+        "id": 18,
+        "placeholder": "________________",
+        "before": "you. WITNESSES: For and on behalf of [insert name of the Institution] 1 ________________",
+        "after": "2 ________________ ________________ For and on behalf of 1 ________________ _____________",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 19,
+        "placeholder": "________________",
+        "before": "r and on behalf of [insert name of the Institution] 1 ________________ ________________ 2",
+        "after": "________________ For and on behalf of 1 ________________ ________________ 2 _____________",
+        "value": "{witness2}"
+      },
+      {
+        "id": 20,
+        "placeholder": "________________",
+        "before": "f [insert name of the Institution] 1 ________________ ________________ 2 ________________",
+        "after": "For and on behalf of 1 ________________ ________________ 2 ________________ _____________",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 21,
+        "placeholder": "________________",
+        "before": "_____________ ________________ 2 ________________ ________________ For and on behalf of 1",
+        "after": "________________ 2 ________________ ________________ This amount will be calculated on t",
+        "value": "{witness1}"
+      },
+      {
+        "id": 22,
+        "placeholder": "________________",
+        "before": "_____________ 2 ________________ ________________ For and on behalf of 1 ________________",
+        "after": "2 ________________ ________________ This amount will be calculated on the entire amount",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 23,
+        "placeholder": "________________",
+        "before": "_____________ ________________ For and on behalf of 1 ________________ ________________ 2",
+        "after": "________________ This amount will be calculated on the entire amount due from you, under",
+        "value": "{witness2}"
+      },
+      {
+        "id": 24,
+        "placeholder": "________________",
+        "before": "_____________ For and on behalf of 1 ________________ ________________ 2 ________________",
+        "after": "This amount will be calculated on the entire amount due from you, under this Agency Agre",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 25,
+        "placeholder": "_______________",
+        "before": "be governed by the prevailing laws of Pakistan and the Musawamah Facility Agreement dated",
+        "after": ". Any dispute between the parties shall be submitted to a Court/Tribunal of competent juri",
+        "value": "{date}"
+      },
+      {
+        "id": 26,
+        "placeholder": "__________",
+        "before": "e between the parties shall be submitted to a Court/Tribunal of competent jurisdiction in",
+        "after": ". Kindly signify your acceptance of the foregoing terms and conditions by signing the dup",
+        "value": "{city}"
+      },
+      {
+        "id": 27,
+        "placeholder": "(insert name of the Institution)",
+        "before": "nce of the foregoing terms and conditions by signing the duplicate. For and on behalf of",
+        "after": "___________________________ AUTHORISED SIGNATORY OF THE INSTITUTION AGREED AND ACCEPTE",
+        "value": "{institution}"
+      },
+      {
+        "id": 28,
+        "placeholder": "___________________________",
+        "before": "ditions by signing the duplicate. For and on behalf of (insert name of the Institution)",
+        "after": "AUTHORISED SIGNATORY OF THE INSTITUTION AGREED AND ACCEPTED For and on behalf of [inser",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 29,
+        "placeholder": "[insert name]",
+        "before": "______ AUTHORISED SIGNATORY OF THE INSTITUTION AGREED AND ACCEPTED For and on behalf of",
+        "after": "_____________________________ AUTHORISED SIGNATORY OF THE AGENT WITNESSES: 1___________",
+        "value": "{client}"
+      },
+      {
+        "id": 30,
+        "placeholder": "_____________________________",
+        "before": "ISED SIGNATORY OF THE INSTITUTION AGREED AND ACCEPTED For and on behalf of [insert name]",
+        "after": "AUTHORISED SIGNATORY OF THE AGENT WITNESSES: 1________________ 2________________ Docum",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 31,
+        "placeholder": "________________",
+        "before": "nsert name] _____________________________ AUTHORISED SIGNATORY OF THE AGENT WITNESSES: 1",
+        "after": "2________________ Document 3.1 PURCHASE REQUISITION S. No. ___________ Date: _________",
+        "value": "{witness1}"
+      },
+      {
+        "id": 32,
+        "placeholder": "________________",
+        "before": "_______________________ AUTHORISED SIGNATORY OF THE AGENT WITNESSES: 1________________ 2",
+        "after": "Document 3.1 PURCHASE REQUISITION S. No. ___________ Date: ___________ To: __________",
+        "value": "{witness2}"
+      },
+      {
+        "id": 33,
+        "placeholder": "___________",
+        "before": "ITNESSES: 1________________ 2________________ Document 3.1 PURCHASE REQUISITION S. No.",
+        "after": "Date: ___________ To: ____________________ [Insert name and address of the Institution]",
+        "value": "{reference}"
+      },
+      {
+        "id": 34,
+        "placeholder": "___________",
+        "before": "_________ 2________________ Document 3.1 PURCHASE REQUISITION S. No. ___________ Date:",
+        "after": "To: ____________________ [Insert name and address of the Institution] _________________",
+        "value": "{date}"
+      },
+      {
+        "id": 35,
+        "placeholder": "____________________",
+        "before": "__________ Document 3.1 PURCHASE REQUISITION S. No. ___________ Date: ___________ To:",
+        "after": "[Insert name and address of the Institution] ____________________ ____________________",
+        "value": "{institution}"
+      },
+      {
+        "id": 36,
+        "placeholder": "[Insert name and address of the Institution]",
+        "before": "3.1 PURCHASE REQUISITION S. No. ___________ Date: ___________ To: ____________________",
+        "after": "____________________ ____________________ Dear Sirs, PURCHASE REQUISITION FOR PURCHASE",
+        "value": "{institution_contact}"
+      },
+      {
+        "id": 37,
+        "placeholder": "____________________",
+        "before": "Date: ___________ To: ____________________ [Insert name and address of the Institution]",
+        "after": "____________________ Dear Sirs, PURCHASE REQUISITION FOR PURCHASE OF THE GOODS MUSAWAM",
+        "value": "{institution_address}"
+      },
+      {
+        "id": 38,
+        "placeholder": "____________________",
+        "before": "____________________ [Insert name and address of the Institution] ____________________",
+        "after": "Dear Sirs, PURCHASE REQUISITION FOR PURCHASE OF THE GOODS MUSAWAMAH FACILITY AGREEMENT",
+        "value": "{city}"
+      },
+      {
+        "id": 39,
+        "placeholder": "_____________",
+        "before": "r Sirs, PURCHASE REQUISITION FOR PURCHASE OF THE GOODS MUSAWAMAH FACILITY AGREEMENT DATED",
+        "after": "(1) Please refer to the Musawamah Facility Agreement dated [______] (the \"Agreement\") be",
+        "value": "{date}"
+      },
+      {
+        "id": 40,
+        "placeholder": "[______]",
+        "before": "AGREEMENT DATED_____________ (1) Please refer to the Musawamah Facility Agreement dated",
+        "after": "(the \"Agreement\") between [insert name of the Client] (the \"Client\") (of the first part)",
+        "value": "{date}"
+      },
+      {
+        "id": 41,
+        "placeholder": "[insert name of the Client]",
+        "before": "Please refer to the Musawamah Facility Agreement dated [______] (the \"Agreement\") between",
+        "after": "(the \"Client\") (of the first part) and [insert name of the Institution] (the \"Institution",
+        "value": "{client}"
+      },
+      {
+        "id": 42,
+        "placeholder": "[insert name of the Institution]",
+        "before": "e \"Agreement\") between [insert name of the Client] (the \"Client\") (of the first part) and",
+        "after": "(the \"Institution\") (of the second part). (2) All terms defined in the Agreement bear th",
+        "value": "{institution}"
+      },
+      {
+        "id": 43,
+        "placeholder": "___________________",
+        "before": "greement as follows: (a) Goods as detailed in Musawamah Document # 3/2: (b) Value Date:",
+        "after": "(4) Please make arrangements to pay the Cost Price to the account of _______________on t",
+        "value": "{purchase_date}"
+      },
+      {
+        "id": 44,
+        "placeholder": "_______________",
+        "before": "___________________ (4) Please make arrangements to pay the Cost Price to the account of",
+        "after": "on the Value Date in immediately available funds. (5) All the terms and conditions of the",
+        "value": "{supplier_account}"
+      },
+      {
+        "id": 45,
+        "placeholder": "______________________",
+        "before": "an integral part of this Requisition. Yours faithfully, For and on Behalf of the Client",
+        "after": "Institution's instructions No. _______________________ Date: _______________________ De",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 46,
+        "placeholder": "_______________________",
+        "before": "y, For and on Behalf of the Client ______________________ Institution's instructions No.",
+        "after": "Date: _______________________ Dear Sir, You are hereby instructed to execute the afores",
+        "value": "{reference}"
+      },
+      {
+        "id": 47,
+        "placeholder": "_______________________",
+        "before": "ient ______________________ Institution's instructions No. _______________________ Date:",
+        "after": "Dear Sir, You are hereby instructed to execute the aforesaid Purchase Requisition for an",
+        "value": "{date}"
+      },
+      {
+        "id": 48,
+        "placeholder": "_____________________",
+        "before": "in the manner, to the extent and for the Goods stipulated therein. For and on Behalf of",
+        "after": "(Insert Institution's name) Document 3.2 DETAILS OF GOODS TO BE PURCHASED (To be attac",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 49,
+        "placeholder": "(Insert Institution's name)",
+        "before": "extent and for the Goods stipulated therein. For and on Behalf of _____________________",
+        "after": "Document 3.2 DETAILS OF GOODS TO BE PURCHASED (To be attached to Purchase Requisition)",
+        "value": "{institution}"
+      },
+      {
+        "id": 50,
+        "placeholder": "________________________",
+        "before": "AILS OF GOODS TO BE PURCHASED (To be attached to Purchase Requisition) Name of Supplier:",
+        "after": "Date:____________ Address: _____________________________________________________________",
+        "value": "{supplier}"
+      },
+      {
+        "id": 51,
+        "placeholder": "____________",
+        "before": "(To be attached to Purchase Requisition) Name of Supplier: ________________________ Date:",
+        "after": "Address: __________________________________________________________________ Sr. No. Spe",
+        "value": "{purchase_date}"
+      },
+      {
+        "id": 52,
+        "placeholder": "__________________________________________________________________",
+        "before": "chase Requisition) Name of Supplier: ________________________ Date:____________ Address:",
+        "after": "Sr. No. Specifications of Goods Quantity Requisitioned Cost Quantity Received Cost Docu",
+        "value": "{supplier_address}"
+      },
+      {
+        "id": 53,
+        "placeholder": "_____________________________________________",
+        "before": "sitioned Cost Quantity Received Cost Document 4 R E C E I P T Received with thanks from",
+        "after": "branch, a sum of Rs. ____________________(Rupees _____________________________only) for th",
+        "value": "{institution_branch}"
+      },
+      {
+        "id": 54,
+        "placeholder": "____________________",
+        "before": "ceived with thanks from _____________________________________________branch, a sum of Rs.",
+        "after": "(Rupees _____________________________only) for the purchase of goods in respect of which a",
+        "value": "{principal}"
+      },
+      {
+        "id": 55,
+        "placeholder": "_____________________________",
+        "before": "_________________________________________branch, a sum of Rs. ____________________(Rupees",
+        "after": "only) for the purchase of goods in respect of which a Quotation dated ____________________",
+        "value": "{principal_words}"
+      },
+      {
+        "id": 56,
+        "placeholder": "_____________________",
+        "before": "____________________only) for the purchase of goods in respect of which a Quotation dated",
+        "after": "has been issued by M/s. ________________________________________________________ In the ev",
+        "value": "{date}"
+      },
+      {
+        "id": 57,
+        "placeholder": "________________________________________________________",
+        "before": "goods in respect of which a Quotation dated _____________________has been issued by M/s.",
+        "after": "In the event of failure on the part of the Supplier to supply the said goods within the p",
+        "value": "{supplier}"
+      },
+      {
+        "id": 58,
+        "placeholder": "______________",
+        "before": "eriod specified in the Purchase Requisition, I/We undertake and agree to refund/reimburse",
+        "after": "the full amount of Rs._____________ and all cost and consequences under and in terms of th",
+        "value": "{institution}"
+      },
+      {
+        "id": 59,
+        "placeholder": "_____________",
+        "before": "isition, I/We undertake and agree to refund/reimburse ______________the full amount of Rs.",
+        "after": "and all cost and consequences under and in terms of the Agency Agreement. For and on beh",
+        "value": "{principal}"
+      },
+      {
+        "id": 60,
+        "placeholder": "[Insert name of the Agent]",
+        "before": "cost and consequences under and in terms of the Agency Agreement. For and on behalf of",
+        "after": "______________________ Authorized Signatory Date: _________________ Document 5 DECLARAT",
+        "value": "{client}"
+      },
+      {
+        "id": 61,
+        "placeholder": "______________________",
+        "before": "r and in terms of the Agency Agreement. For and on behalf of [Insert name of the Agent]",
+        "after": "Authorized Signatory Date: _________________ Document 5 DECLARATION (Part-I) CONFIRMAT",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 62,
+        "placeholder": "_________________",
+        "before": "behalf of [Insert name of the Agent] ______________________ Authorized Signatory Date:",
+        "after": "Document 5 DECLARATION (Part-I) CONFIRMATION OF GOODS PURCHASED Date: ______________ Me",
+        "value": "{purchase_date}"
+      },
+      {
+        "id": 63,
+        "placeholder": "______________",
+        "before": "_________________ Document 5 DECLARATION (Part-I) CONFIRMATION OF GOODS PURCHASED Date:",
+        "after": "Messrs. ________________ _______________________ With reference to the Agency Agreement",
+        "value": "{purchase_date}"
+      },
+      {
+        "id": 64,
+        "placeholder": "________________",
+        "before": "ment 5 DECLARATION (Part-I) CONFIRMATION OF GOODS PURCHASED Date: ______________ Messrs.",
+        "after": "_______________________ With reference to the Agency Agreement dated _________ and the",
+        "value": "{institution}"
+      },
+      {
+        "id": 65,
+        "placeholder": "_______________________",
+        "before": "(Part-I) CONFIRMATION OF GOODS PURCHASED Date: ______________ Messrs. ________________",
+        "after": "With reference to the Agency Agreement dated _________ and the Institution's instruction",
+        "value": "{institution_address}"
+      },
+      {
+        "id": 66,
+        "placeholder": "_________",
+        "before": ". ________________ _______________________ With reference to the Agency Agreement dated",
+        "after": "and the Institution's instructions contained in Musawamah Document # 3/1, we hereby decla",
+        "value": "{date}"
+      },
+      {
+        "id": 67,
+        "placeholder": "______________",
+        "before": "3/1, we hereby declare and certify that acting as your Agent, we have used the sum of Rs.",
+        "after": "paid by your good selves to M/s _________________________________________ and purchased o",
+        "value": "{principal}"
+      },
+      {
+        "id": 68,
+        "placeholder": "_________________________________________",
+        "before": "as your Agent, we have used the sum of Rs. ______________ paid by your good selves to M/s",
+        "after": "and purchased on your behalf the Goods as detailed in Musawamah Document # 3/2). A sum of",
+        "value": "{supplier}"
+      },
+      {
+        "id": 69,
+        "placeholder": "________________",
+        "before": "purchased on your behalf the Goods as detailed in Musawamah Document # 3/2). A sum of Rs.",
+        "after": "has been incurred for the purchase of the Goods, which are in my/ our possession at the f",
+        "value": "{principal}"
+      },
+      {
+        "id": 70,
+        "placeholder": "____________________________________________________________________",
+        "before": "for the purchase of the Goods, which are in my/ our possession at the following address:",
+        "after": ". Copies of bill/cash memo/invoice issued in your name by M/s. _______________________ are",
+        "value": "{delivery_address}"
+      },
+      {
+        "id": 71,
+        "placeholder": "_______________________",
+        "before": "___________________________. Copies of bill/cash memo/invoice issued in your name by M/s.",
+        "after": "are attached. For and on behalf of [insert Agent's name] ________________________ AUTHO",
+        "value": "{supplier}"
+      },
+      {
+        "id": 72,
+        "placeholder": "[insert Agent's name]",
+        "before": "e issued in your name by M/s. _______________________ are attached. For and on behalf of",
+        "after": "________________________ AUTHORISED SIGNATORY (Part-II) OFFER TO PURCHASE I/We offer to",
+        "value": "{client}"
+      },
+      {
+        "id": 73,
+        "placeholder": "________________________",
+        "before": "by M/s. _______________________ are attached. For and on behalf of [insert Agent's name]",
+        "after": "AUTHORISED SIGNATORY (Part-II) OFFER TO PURCHASE I/We offer to purchase the above Goods",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 74,
+        "placeholder": "_______",
+        "before": "ER TO PURCHASE I/We offer to purchase the above Goods from you for a Contract Price of Rs.",
+        "after": "(Rupees ____________________________________________only). I/We undertake to pay the Cont",
+        "value": "{sale_price}"
+      },
+      {
+        "id": 75,
+        "placeholder": "____________________________________________",
+        "before": "/We offer to purchase the above Goods from you for a Contract Price of Rs._______ (Rupees",
+        "after": "only). I/We undertake to pay the Contract Price referred to above in lump sum on [repaymen",
+        "value": "{sale_price_words}"
+      },
+      {
+        "id": 76,
+        "placeholder": "[repayment date]",
+        "before": "_________only). I/We undertake to pay the Contract Price referred to above in lump sum on",
+        "after": ", or in _______ installments, if agreed by the Institution, as per the attached schedule (",
+        "value": "{end_date}"
+      },
+      {
+        "id": 77,
+        "placeholder": "_______",
+        "before": "ertake to pay the Contract Price referred to above in lump sum on [repayment date], or in",
+        "after": "installments, if agreed by the Institution, as per the attached schedule (Musawamah Docum",
+        "value": "12"
+      },
+      {
+        "id": 78,
+        "placeholder": "[Insert Agent's name]",
+        "before": "Institution, as per the attached schedule (Musawamah Document # 6). For and on behalf of",
+        "after": "_____________________ AUTHORISED SIGNATORY Date: __________________ (Part-III) INSTIT",
+        "value": "{client}"
+      },
+      {
+        "id": 79,
+        "placeholder": "_____________________",
+        "before": "e attached schedule (Musawamah Document # 6). For and on behalf of [Insert Agent's name]",
+        "after": "AUTHORISED SIGNATORY Date: __________________ (Part-III) INSTITUTION'S ACCEPTANCE We h",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 80,
+        "placeholder": "__________________",
+        "before": "nd on behalf of [Insert Agent's name] _____________________ AUTHORISED SIGNATORY Date:",
+        "after": "(Part-III) INSTITUTION'S ACCEPTANCE We have accepted your offer and have sold the above",
+        "value": "{sale_date}"
+      },
+      {
+        "id": 81,
+        "placeholder": "_________",
+        "before": "oned Goods to you on the following terms and conditions. 1) The Contract Price is Pak Rs.",
+        "after": "(Rupees ______________________________________only) inclusive of Sales Tax Rs.___________",
+        "value": "{sale_price}"
+      },
+      {
+        "id": 82,
+        "placeholder": "______________________________________",
+        "before": "on the following terms and conditions. 1) The Contract Price is Pak Rs._________ (Rupees",
+        "after": "only) inclusive of Sales Tax Rs.______________. 2) The Contract Price stated above shall",
+        "value": "{sale_price_words}"
+      },
+      {
+        "id": 83,
+        "placeholder": "______________",
+        "before": "s._________ (Rupees ______________________________________only) inclusive of Sales Tax Rs.",
+        "after": ". 2) The Contract Price stated above shall be payable in lump sum on __________ or in ___",
+        "value": "0"
+      },
+      {
+        "id": 84,
+        "placeholder": "__________",
+        "before": "ax Rs.______________. 2) The Contract Price stated above shall be payable in lump sum on",
+        "after": "or in ___installments, as per the attached schedule (Musawamah Document # 6). For and on",
+        "value": "{end_date}"
+      },
+      {
+        "id": 85,
+        "placeholder": "___",
+        "before": "___. 2) The Contract Price stated above shall be payable in lump sum on __________ or in",
+        "after": "installments, as per the attached schedule (Musawamah Document # 6). For and on behalf of",
+        "value": "12"
+      },
+      {
+        "id": 86,
+        "placeholder": "[Insert name of the Institution]",
+        "before": "nstallments, as per the attached schedule (Musawamah Document # 6). For and on behalf of",
+        "after": "Document 6 SCHEDULE OF PAYMENTS OF CONTRACT PRICE Document 7 SCHEDULE OF SECURITY AUTHORI",
+        "value": "{institution}"
+      },
+      {
+        "id": 87,
+        "placeholder": "___________________",
+        "before": "RACT PRICE Document 7 SCHEDULE OF SECURITY AUTHORISED SIGNATORY AUTHORISED SIGNATORY Date:",
+        "after": "Date:___________________ Payment Date Installment Amount Description of Security Nature",
+        "value": "{sale_date}"
+      },
+      {
+        "id": 88,
+        "placeholder": "___________________",
+        "before": "EDULE OF SECURITY AUTHORISED SIGNATORY AUTHORISED SIGNATORY Date:___________________ Date:",
+        "after": "Payment Date Installment Amount Description of Security Nature of Charge",
+        "value": "{sale_date}"
+      }
+    ],
+    "title": "Musawamah facility"
+  },
+  "musharakah": {
+    "file": "MODEL MUSHARAKAH INVESTMENT AGREEMENT.pdf",
+    "sha256": "b0b0c081708ba1354022a1c5f38b8c7543b4318e03664ee0f54dce6b6c82a93e",
+    "source_pages": 10,
+    "fields": [
+      {
+        "id": 1,
+        "placeholder": "_______________",
+        "before": "MODEL MUSHARAKAH INVESTMENT AGREEMENT THIS AGREEMENT IS MADE AT",
+        "after": "this _________ day of _____________ [agreement year] BETWEEN ___________________Limited",
+        "value": "{city}"
+      },
+      {
+        "id": 2,
+        "placeholder": "_________",
+        "before": "MODEL MUSHARAKAH INVESTMENT AGREEMENT THIS AGREEMENT IS MADE AT_______________ this",
+        "after": "day of _____________ [agreement year] BETWEEN ___________________Limited, a duly incorp",
+        "value": "{day}"
+      },
+      {
+        "id": 3,
+        "placeholder": "_____________",
+        "before": "KAH INVESTMENT AGREEMENT THIS AGREEMENT IS MADE AT_______________ this _________ day of",
+        "after": "[agreement year] BETWEEN ___________________Limited, a duly incorporated company having",
+        "value": "{month}"
+      },
+      {
+        "id": 4,
+        "placeholder": "[agreement year]",
+        "before": "AGREEMENT THIS AGREEMENT IS MADE AT_______________ this _________ day of _____________",
+        "after": "BETWEEN ___________________Limited, a duly incorporated company having its registered o",
+        "value": "{year}"
+      },
+      {
+        "id": 5,
+        "placeholder": "___________________",
+        "before": "IS MADE AT_______________ this _________ day of _____________ [agreement year] BETWEEN",
+        "after": "Limited, a duly incorporated company having its registered office at _____________hereinaf",
+        "value": "{client_base}"
+      },
+      {
+        "id": 6,
+        "placeholder": "_____________",
+        "before": "___________________Limited, a duly incorporated company having its registered office at",
+        "after": "hereinafter referred to as \"the Client\" (which expression shall wherever the context so re",
+        "value": "{client_address}"
+      },
+      {
+        "id": 7,
+        "placeholder": "_________________",
+        "before": "or permits mean and include its successors-in-interest and assigns) of the ONE PART AND",
+        "after": "Institution (or financial institution), a duly incorporated banking company (or financial",
+        "value": "{institution_prefix}"
+      },
+      {
+        "id": 8,
+        "placeholder": "__________",
+        "before": "y incorporated banking company (or financial institution) having its registered office at",
+        "after": "hereinafter referred to as \"the Institution\" (which expression shall wherever the context",
+        "value": "{institution_address}"
+      },
+      {
+        "id": 9,
+        "placeholder": "(insert description of the proposed securities)",
+        "before": "Agreement. \"Security\" is defined in Clause 15. \"Secured Assets\" means all the Client's",
+        "after": "\"Rupees\" or \"Rs.\" means the lawful currency of Pakistan \"State Bank of Pakistan\" means",
+        "value": "{collateral}"
+      },
+      {
+        "id": 10,
+        "placeholder": "____________",
+        "before": "on hereby agrees at written request of the Client to provide financing up to a sum of Rs.",
+        "after": "(Rupees _________________________ only) on the terms and conditions hereinafter contained",
+        "value": "{principal}"
+      },
+      {
+        "id": 11,
+        "placeholder": "_________________________",
+        "before": "ritten request of the Client to provide financing up to a sum of Rs. ____________ (Rupees",
+        "after": "only) on the terms and conditions hereinafter contained (which financing is hereinafter r",
+        "value": "{principal_words}"
+      },
+      {
+        "id": 12,
+        "placeholder": "___________",
+        "before": "rred to as \"Institution's Investment\"). 3. This Agreement shall be valid for a period of",
+        "after": "years from the date of first disbursement of the Institution's Investment. 4. The Client",
+        "value": "1"
+      },
+      {
+        "id": 13,
+        "placeholder": "[insert description of purpose of the Musharaka Investment]",
+        "before": "ally agree and covenant as under: i) The Institution's Investment shall be used only for",
+        "after": "and shall not be used and / or diverted for any other purpose. ii) The investment of the",
+        "value": "{project}"
+      },
+      {
+        "id": 14,
+        "placeholder": "________________",
+        "before": "pose. ii) The investment of the Client for the purpose of this Agreement aggregate to Rs.",
+        "after": "(Rupees ____________________________________only) as on _________ as per details given in",
+        "value": "{client_capital}"
+      },
+      {
+        "id": 15,
+        "placeholder": "____________________________________",
+        "before": "of the Client for the purpose of this Agreement aggregate to Rs.________________ (Rupees",
+        "after": "only) as on _________ as per details given in Annexure 'A' to this Agreement (Client's Inv",
+        "value": "{client_capital_words}"
+      },
+      {
+        "id": 16,
+        "placeholder": "_________",
+        "before": "aggregate to Rs.________________ (Rupees ____________________________________only) as on",
+        "after": "as per details given in Annexure 'A' to this Agreement (Client's Investment). iii) The C",
+        "value": "{date}"
+      },
+      {
+        "id": 17,
+        "placeholder": "___________",
+        "before": "it and Loss Sharing basis all of which are hereinafter referred to as \"other PLS Funds\".",
+        "after": "______________ ______________ _____________ ___________ ______________ ______________ __",
+        "value": "Nil"
+      },
+      {
+        "id": 18,
+        "placeholder": "______________",
+        "before": "Sharing basis all of which are hereinafter referred to as \"other PLS Funds\". ___________",
+        "after": "______________ _____________ ___________ ______________ ______________ _____________ iv",
+        "value": "0"
+      },
+      {
+        "id": 19,
+        "placeholder": "______________",
+        "before": "ll of which are hereinafter referred to as \"other PLS Funds\". ___________ ______________",
+        "after": "_____________ ___________ ______________ ______________ _____________ iv) The Client sh",
+        "value": "0"
+      },
+      {
+        "id": 20,
+        "placeholder": "_____________",
+        "before": "hereinafter referred to as \"other PLS Funds\". ___________ ______________ ______________",
+        "after": "___________ ______________ ______________ _____________ iv) The Client shall not make a",
+        "value": "0"
+      },
+      {
+        "id": 21,
+        "placeholder": "___________",
+        "before": "ferred to as \"other PLS Funds\". ___________ ______________ ______________ _____________",
+        "after": "______________ ______________ _____________ iv) The Client shall not make any change in",
+        "value": "Nil"
+      },
+      {
+        "id": 22,
+        "placeholder": "______________",
+        "before": "\"other PLS Funds\". ___________ ______________ ______________ _____________ ___________",
+        "after": "______________ _____________ iv) The Client shall not make any change in its paid up cap",
+        "value": "0"
+      },
+      {
+        "id": 23,
+        "placeholder": "______________",
+        "before": "ds\". ___________ ______________ ______________ _____________ ___________ ______________",
+        "after": "_____________ iv) The Client shall not make any change in its paid up capital, accumulat",
+        "value": "0"
+      },
+      {
+        "id": 24,
+        "placeholder": "_____________",
+        "before": "__ ______________ ______________ _____________ ___________ ______________ ______________",
+        "after": "iv) The Client shall not make any change in its paid up capital, accumulated reserves or",
+        "value": "0"
+      },
+      {
+        "id": 25,
+        "placeholder": "________",
+        "before": "lient's investment, the projected pre- tax annual profit of the Client hereafter shall be",
+        "after": "% p.a. (_______ percent per annum) of the total of investments of (a) the Client, (b) the",
+        "value": "10"
+      },
+      {
+        "id": 26,
+        "placeholder": "_______",
+        "before": "t, the projected pre- tax annual profit of the Client hereafter shall be ________ % p.a. (",
+        "after": "percent per annum) of the total of investments of (a) the Client, (b) the Institution and",
+        "value": "ten"
+      },
+      {
+        "id": 27,
+        "placeholder": "_____",
+        "before": "of Institution's profit. 8. Where the Musharaka under this Agreement is for a period of",
+        "after": "years, the Institution shall have the right to convert into the shares of the Client the",
+        "value": "1"
+      },
+      {
+        "id": 28,
+        "placeholder": "____",
+        "before": "ovenants under this Agreement provided such default remains un- rectified for a period of",
+        "after": "days from the date of notice served by the Institution, the Institution shall have the ri",
+        "value": "30"
+      },
+      {
+        "id": 29,
+        "placeholder": "------",
+        "before": "s to pay directly to the Charity Fund, constituted by the Institution, a sum calculated @",
+        "after": "% per annum for the entire period of default, calculated on the total amount of the obliga",
+        "value": "0"
+      },
+      {
+        "id": 30,
+        "placeholder": "________",
+        "before": "verned by and shall be construed in accordance with Pakistan law. All competent courts at",
+        "after": "shall have the non-exclusive jurisdiction to hear and determine any action, claim or proc",
+        "value": "{city}"
+      },
+      {
+        "id": 31,
+        "placeholder": "_____________________",
+        "before": "eement on the day, month and year hereinabove mentioned. WITNESSES SIGNATURES 1.Signature",
+        "after": "Name _____________________ Address _____________________ NIC No. _____________________",
+        "value": "{signature_witness1}"
+      },
+      {
+        "id": 32,
+        "placeholder": "_____________________",
+        "before": "d year hereinabove mentioned. WITNESSES SIGNATURES 1.Signature _____________________ Name",
+        "after": "Address _____________________ NIC No. _____________________ 1. _____________________",
+        "value": "{witness1}"
+      },
+      {
+        "id": 33,
+        "placeholder": "_____________________",
+        "before": "ITNESSES SIGNATURES 1.Signature _____________________ Name _____________________ Address",
+        "after": "NIC No. _____________________ 1. _____________________ 2. _____________________ (Auth",
+        "value": "{client_address}"
+      },
+      {
+        "id": 34,
+        "placeholder": "_____________________",
+        "before": "_____________________ Name _____________________ Address _____________________ NIC No.",
+        "after": "1. _____________________ 2. _____________________ (Authorized signatures) Common Seal",
+        "value": "{witness_id1}"
+      },
+      {
+        "id": 35,
+        "placeholder": "_____________________",
+        "before": "e _____________________ Address _____________________ NIC No. _____________________ 1.",
+        "after": "2. _____________________ (Authorized signatures) Common Seal for and on behalf of WITN",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 36,
+        "placeholder": "_____________________",
+        "before": "ddress _____________________ NIC No. _____________________ 1. _____________________ 2.",
+        "after": "(Authorized signatures) Common Seal for and on behalf of WITNESSES SIGNATURES Annexure",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 37,
+        "placeholder": "_____________________",
+        "before": "ignatures) Common Seal for and on behalf of WITNESSES SIGNATURES Annexure I 1.Signature",
+        "after": "Name _____________________ Address _____________________ NIC No. _____________________",
+        "value": "{signature_witness2}"
+      },
+      {
+        "id": 38,
+        "placeholder": "_____________________",
+        "before": "and on behalf of WITNESSES SIGNATURES Annexure I 1.Signature _____________________ Name",
+        "after": "Address _____________________ NIC No. _____________________ 1. _____________________",
+        "value": "{witness2}"
+      },
+      {
+        "id": 39,
+        "placeholder": "_____________________",
+        "before": "NATURES Annexure I 1.Signature _____________________ Name _____________________ Address",
+        "after": "NIC No. _____________________ 1. _____________________ 2. _____________________ (Auth",
+        "value": "{institution_address}"
+      },
+      {
+        "id": 40,
+        "placeholder": "_____________________",
+        "before": "_____________________ Name _____________________ Address _____________________ NIC No.",
+        "after": "1. _____________________ 2. _____________________ (Authorized signatures) Common Seal",
+        "value": "{witness_id2}"
+      },
+      {
+        "id": 41,
+        "placeholder": "_____________________",
+        "before": "e _____________________ Address _____________________ NIC No. _____________________ 1.",
+        "after": "2. _____________________ (Authorized signatures) Common Seal for and on behalf of Agre",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 42,
+        "placeholder": "_____________________",
+        "before": "ddress _____________________ NIC No. _____________________ 1. _____________________ 2.",
+        "after": "(Authorized signatures) Common Seal for and on behalf of Agreed Ratio For Profit Shar",
+        "value": "{signature_bank}"
+      }
+    ],
+    "title": "Musharakah investment"
+  },
+  "salam": {
+    "file": "MODEL SALAM AGREEMENT.pdf",
+    "sha256": "a1f08041f0ede1238958762156c49b149d6cfa10c7cad1deb7484228e20ab53d",
+    "source_pages": 13,
+    "fields": [
+      {
+        "id": 1,
+        "placeholder": "______________",
+        "before": "MODEL SALAM AGREEMENT THIS SALAM AGREEMENT (the \"Agreement\") is made at",
+        "after": "on __________ day of _______________ by and BETWEEN ___________________________________",
+        "value": "{city}"
+      },
+      {
+        "id": 2,
+        "placeholder": "__________",
+        "before": "ODEL SALAM AGREEMENT THIS SALAM AGREEMENT (the \"Agreement\") is made at______________ on",
+        "after": "day of _______________ by and BETWEEN _________________________________________________",
+        "value": "{day}"
+      },
+      {
+        "id": 3,
+        "placeholder": "_______________",
+        "before": "NT THIS SALAM AGREEMENT (the \"Agreement\") is made at______________ on __________ day of",
+        "after": "by and BETWEEN ______________________________________________________________, (hereina",
+        "value": "{month_year}"
+      },
+      {
+        "id": 4,
+        "placeholder": "______________________________________________________________",
+        "before": "greement\") is made at______________ on __________ day of _______________ by and BETWEEN",
+        "after": ", (hereinafter referred to as the \"Supplier\" which expression shall where the context so p",
+        "value": "{supplier}"
+      },
+      {
+        "id": 5,
+        "placeholder": "______________________________________________________________",
+        "before": "mean and include its successors in interest and permitted assigns) of the one part AND",
+        "after": ", (hereinafter referred to as the \"Institution\" which expression shall where the context s",
+        "value": "{institution}"
+      },
+      {
+        "id": 6,
+        "placeholder": "____________________",
+        "before": "a day on which banks are open for normal business in Pakistan; \"Contract Price\" means Rs.",
+        "after": ", paid by the Institution to the Supplier or such other sum as may mutually be agreed in w",
+        "value": "{principal}"
+      },
+      {
+        "id": 7,
+        "placeholder": "__",
+        "before": "ces described in Clause 09 hereto; \"Goods\" means the Goods described in Salam Document #",
+        "after": "; \"Goods Receiving Note\" means confirmation of receipt of Goods as set out in Salam Docum",
+        "value": "1"
+      },
+      {
+        "id": 8,
+        "placeholder": "[receiving note]",
+        "before": "ods Receiving Note\" means confirmation of receipt of Goods as set out in Salam Document #",
+        "after": "; \"Indebtedness\" means any obligation of the Supplier for delivery of the Goods or for pa",
+        "value": "3"
+      },
+      {
+        "id": 9,
+        "placeholder": "__",
+        "before": "otice of Delivery given by the Supplier to the Institution as set out in Salam Document #",
+        "after": "\"Principal Documents\" means this Agreement and the Security Documents; \"Promissory Note",
+        "value": "2"
+      },
+      {
+        "id": 10,
+        "placeholder": "[insert description of assets in respect of which charge/mortgage may be created]",
+        "before": "\" is defined in Clause 3.01; \"Secured Assets\" means the following assets of the Supplier",
+        "after": "; \"Rupees\" or \"Rs.\" means the lawful currency of Pakistan; \"State Bank of Pakistan\" mean",
+        "value": "{collateral}"
+      },
+      {
+        "id": 11,
+        "placeholder": "__",
+        "before": "en Offer\" means the Offer made by the Supplier to the Institution as per Salam Document #",
+        "after": ". 1.04 Clause headings and the table of contents are inserted for convenience of referen",
+        "value": "1"
+      },
+      {
+        "id": 12,
+        "placeholder": "[delivery date]",
+        "before": "ice. Upon receipt by the Institution of the Supplier's Notice of Delivery, which shall be",
+        "after": "or such other date as may be mutually agreed between the parties hereto, hereinafter refe",
+        "value": "{delivery_date}"
+      },
+      {
+        "id": 13,
+        "placeholder": "__",
+        "before": "ollateral(s), substantially in the form and substance attached hereto as Salam Document #",
+        "after": "; (b) Execute such further deeds and documents as may from time to time be required by t",
+        "value": "4"
+      },
+      {
+        "id": 14,
+        "placeholder": "-------",
+        "before": "ned against the Supplier or any of its assets; e. It shall inform the Institution within",
+        "after": "Business Days of an event or happening which may have an adverse effect on the financial",
+        "value": "3"
+      },
+      {
+        "id": 15,
+        "placeholder": "[insert Place of Delivery]",
+        "before": "deliver the Goods contracted to be delivered under this Agreement on the Delivery Date at",
+        "after": "; (b) Any representation or warranty made or deemed to be made or repeated by the Supplie",
+        "value": "{delivery_address}"
+      },
+      {
+        "id": 16,
+        "placeholder": "__________",
+        "before": "Agreement is found to be incorrect; (c) Any Indebtedness of the Supplier in excess of Rs.",
+        "after": "(Rupees ________________only) is not paid when due or becomes due or capable of being dec",
+        "value": "{threshold}"
+      },
+      {
+        "id": 17,
+        "placeholder": "________________",
+        "before": "to be incorrect; (c) Any Indebtedness of the Supplier in excess of Rs.__________ (Rupees",
+        "after": "only) is not paid when due or becomes due or capable of being declared due in terms of thi",
+        "value": "{threshold_words}"
+      },
+      {
+        "id": 18,
+        "placeholder": "_______",
+        "before": "s, charges and expenses under the Principal Documents shall remain unpaid for a period of",
+        "after": "days after notice of demand in that behalf has been received by the Supplier from the Ins",
+        "value": "30"
+      },
+      {
+        "id": 19,
+        "placeholder": "------",
+        "before": "s to pay directly to the Charity Fund, constituted by the Institution, a sum calculated @",
+        "after": "% per annum for the entire period of default, calculated on the total amount of the obliga",
+        "value": "0"
+      },
+      {
+        "id": 20,
+        "placeholder": "_____",
+        "before": "d by and shall be construed in accordance with the Pakistani law. All competent courts at",
+        "after": "shall have the non-exclusive jurisdiction to hear and determine any action, claim or proc",
+        "value": "{city}"
+      },
+      {
+        "id": 21,
+        "placeholder": "[insert name of the Institution]",
+        "before": "duly executed on the date and year first aforementioned. WITNESSES: For and on behalf of",
+        "after": "1 ________________ ________________ 2 ________________ ________________ For and on behalf",
+        "value": "{institution}"
+      },
+      {
+        "id": 22,
+        "placeholder": "________________",
+        "before": "first aforementioned. WITNESSES: For and on behalf of [insert name of the Institution] 1",
+        "after": "________________ 2 ________________ ________________ For and on behalf of 1 _____________",
+        "value": "{witness1}"
+      },
+      {
+        "id": 23,
+        "placeholder": "________________",
+        "before": "ned. WITNESSES: For and on behalf of [insert name of the Institution] 1 ________________",
+        "after": "2 ________________ ________________ For and on behalf of 1 ________________ _____________",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 24,
+        "placeholder": "________________",
+        "before": "r and on behalf of [insert name of the Institution] 1 ________________ ________________ 2",
+        "after": "________________ For and on behalf of 1 ________________ ________________ 2 _____________",
+        "value": "{witness2}"
+      },
+      {
+        "id": 25,
+        "placeholder": "________________",
+        "before": "f [insert name of the Institution] 1 ________________ ________________ 2 ________________",
+        "after": "For and on behalf of 1 ________________ ________________ 2 ________________ _____________",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 26,
+        "placeholder": "________________",
+        "before": "_____________ ________________ 2 ________________ ________________ For and on behalf of 1",
+        "after": "________________ 2 ________________ ________________ Document 1 WRITTEN OFFER Date: ____",
+        "value": "{witness1}"
+      },
+      {
+        "id": 27,
+        "placeholder": "________________",
+        "before": "_____________ 2 ________________ ________________ For and on behalf of 1 ________________",
+        "after": "2 ________________ ________________ Document 1 WRITTEN OFFER Date: ________________ To:",
+        "value": "{signature_supplier}"
+      },
+      {
+        "id": 28,
+        "placeholder": "________________",
+        "before": "_____________ ________________ For and on behalf of 1 ________________ ________________ 2",
+        "after": "________________ Document 1 WRITTEN OFFER Date: ________________ To: __________________",
+        "value": "{witness2}"
+      },
+      {
+        "id": 29,
+        "placeholder": "________________",
+        "before": "_____________ For and on behalf of 1 ________________ ________________ 2 ________________",
+        "after": "Document 1 WRITTEN OFFER Date: ________________ To: __________________________________",
+        "value": "{signature_supplier}"
+      },
+      {
+        "id": 30,
+        "placeholder": "________________",
+        "before": "____ ________________ 2 ________________ ________________ Document 1 WRITTEN OFFER Date:",
+        "after": "To: __________________________________ [Insert name and address of the Institution] __",
+        "value": "{date}"
+      },
+      {
+        "id": 31,
+        "placeholder": "__________________________________",
+        "before": "2 ________________ ________________ Document 1 WRITTEN OFFER Date: ________________ To:",
+        "after": "[Insert name and address of the Institution] ___________________________ Dear Sirs, Wr",
+        "value": "{institution}"
+      },
+      {
+        "id": 32,
+        "placeholder": "[Insert name and address of the Institution]",
+        "before": "Document 1 WRITTEN OFFER Date: ________________ To: __________________________________",
+        "after": "___________________________ Dear Sirs, Written offer for Sale of Goods [insert descript",
+        "value": "{institution_contact}"
+      },
+      {
+        "id": 33,
+        "placeholder": "___________________________",
+        "before": "__ To: __________________________________ [Insert name and address of the Institution]",
+        "after": "Dear Sirs, Written offer for Sale of Goods [insert descriptions] (1) Please refer to you",
+        "value": "{institution_address}"
+      },
+      {
+        "id": 34,
+        "placeholder": "[insert descriptions]",
+        "before": "the Institution] ___________________________ Dear Sirs, Written offer for Sale of Goods",
+        "after": "(1) Please refer to your recent inquiry for the sale of the above referred Goods. In this",
+        "value": "{goods}"
+      },
+      {
+        "id": 35,
+        "placeholder": "______________________",
+        "before": "le or regulation whether directly or indirectly. Yours faithfully, For and on Behalf of",
+        "after": "Sr. No. Specification of Goods Quantity Sale Price Document 2 Date:__________________ To",
+        "value": "{signature_supplier}"
+      },
+      {
+        "id": 36,
+        "placeholder": "__________________",
+        "before": "_____________________ Sr. No. Specification of Goods Quantity Sale Price Document 2 Date:",
+        "after": "To: ___________________ ______________________ [Insert name and address of the Institut",
+        "value": "{delivery_date}"
+      },
+      {
+        "id": 37,
+        "placeholder": "___________________",
+        "before": "r. No. Specification of Goods Quantity Sale Price Document 2 Date:__________________ To:",
+        "after": "______________________ [Insert name and address of the Institution] Dear Sirs, Notice",
+        "value": "{institution}"
+      },
+      {
+        "id": 38,
+        "placeholder": "______________________",
+        "before": "of Goods Quantity Sale Price Document 2 Date:__________________ To: ___________________",
+        "after": "[Insert name and address of the Institution] Dear Sirs, Notice of Delivery of Goods [in",
+        "value": "{institution_address}"
+      },
+      {
+        "id": 39,
+        "placeholder": "[Insert name and address of the Institution]",
+        "before": "rice Document 2 Date:__________________ To: ___________________ ______________________",
+        "after": "Dear Sirs, Notice of Delivery of Goods [insert descriptions] Reference to the above we a",
+        "value": "{institution_contact}"
+      },
+      {
+        "id": 40,
+        "placeholder": "[insert descriptions]",
+        "before": "___ [Insert name and address of the Institution] Dear Sirs, Notice of Delivery of Goods",
+        "after": "Reference to the above we are pleased to inform you that we are ready to deliver the Good",
+        "value": "{goods}"
+      },
+      {
+        "id": 41,
+        "placeholder": "______________________",
+        "before": "oods: d) Additional remarks (if any): Yours faithfully, For and on Behalf of (Supplier)",
+        "after": "GOODS RECEIVNG NOTE Date:_____________ No. _____________ To:____________________ _____",
+        "value": "{signature_supplier}"
+      },
+      {
+        "id": 42,
+        "placeholder": "_____________",
+        "before": "fully, For and on Behalf of (Supplier) ______________________ GOODS RECEIVNG NOTE Date:",
+        "after": "No. _____________ To:____________________ ______________________ [Insert name and addr",
+        "value": "{delivery_date}"
+      },
+      {
+        "id": 43,
+        "placeholder": "_____________",
+        "before": "Behalf of (Supplier) ______________________ GOODS RECEIVNG NOTE Date:_____________ No.",
+        "after": "To:____________________ ______________________ [Insert name and address of the Supplier",
+        "value": "{reference}"
+      },
+      {
+        "id": 44,
+        "placeholder": "____________________",
+        "before": "er) ______________________ GOODS RECEIVNG NOTE Date:_____________ No. _____________ To:",
+        "after": "______________________ [Insert name and address of the Supplier] Dear Sirs, (1) We ack",
+        "value": "{supplier}"
+      },
+      {
+        "id": 45,
+        "placeholder": "______________________",
+        "before": "_____ GOODS RECEIVNG NOTE Date:_____________ No. _____________ To:____________________",
+        "after": "[Insert name and address of the Supplier] Dear Sirs, (1) We acknowledge having received",
+        "value": "{supplier_address}"
+      },
+      {
+        "id": 46,
+        "placeholder": "[Insert name and address of the Supplier]",
+        "before": "E Date:_____________ No. _____________ To:____________________ ______________________",
+        "after": "Dear Sirs, (1) We acknowledge having received the Goods as detailed in the Notice of Del",
+        "value": "{supplier_contact}"
+      },
+      {
+        "id": 47,
+        "placeholder": "______________________",
+        "before": "claims or liabilities against you. Yours faithfully, For and on Behalf of (Institution)",
+        "after": "Sr. No. Specification of Goods Quantity Sale Price",
+        "value": "{signature_bank}"
+      }
+    ],
+    "title": "Salam purchase"
+  },
+  "istisna": {
+    "file": "MODEL ISTISNA AGREEMENT.pdf",
+    "sha256": "df9d0cd6f26845086c4bca983b6f1c83c99bf2cb090ed7b843c260c3f0b2922e",
+    "source_pages": 14,
+    "fields": [
+      {
+        "id": 1,
+        "placeholder": "____________",
+        "before": "MODEL ISTISNA AGREEMENT THIS ISTISNA AGREEMENT (the \"Agreement\") is made at",
+        "after": "on ____________ day of ______________ by and BETWEEN __________________________________",
+        "value": "{city}"
+      },
+      {
+        "id": 2,
+        "placeholder": "____________",
+        "before": "EL ISTISNA AGREEMENT THIS ISTISNA AGREEMENT (the \"Agreement\") is made at____________ on",
+        "after": "day of ______________ by and BETWEEN __________________________________________________",
+        "value": "{day}"
+      },
+      {
+        "id": 3,
+        "placeholder": "______________",
+        "before": "THIS ISTISNA AGREEMENT (the \"Agreement\") is made at____________ on ____________ day of",
+        "after": "by and BETWEEN ___________________________________________________________________,(her",
+        "value": "{month_year}"
+      },
+      {
+        "id": 4,
+        "placeholder": "___________________________________________________________________",
+        "before": "Agreement\") is made at____________ on ____________ day of ______________ by and BETWEEN",
+        "after": ",(hereinafter referred to as the \"Manufacturer/Supplier\" which expression shall where the",
+        "value": "{supplier}"
+      },
+      {
+        "id": 5,
+        "placeholder": "___________________________________________________________________",
+        "before": "mean and include its successors in interest and permitted assigns) of the one part AND",
+        "after": ",(hereinafter referred to as the \"Institution\" which expression shall where the context so",
+        "value": "{institution}"
+      },
+      {
+        "id": 6,
+        "placeholder": "________",
+        "before": "n which Institutions are open for normal business in Pakistan; \"Contract Price\" means Rs.",
+        "after": ", being the sum payable by the Institution to the Manufacturer/ Supplier as price of the G",
+        "value": "{principal}"
+      },
+      {
+        "id": 7,
+        "placeholder": "[insert description of assets in respect of which charge/mortgage may be created]",
+        "before": "n Clause 3.01; \"Secured Assets\" means the following assets of the Manufacturer/Supplier;",
+        "after": "; \"Rupees\" or \"Rs.\" means the lawful currency of Pakistan; \"State Bank of Pakistan\" mean",
+        "value": "{collateral}"
+      },
+      {
+        "id": 8,
+        "placeholder": "[Insert description of the Goods with specifications, quantity quality and respective contract price]",
+        "before": "ow on Istisna for the Institution to be delivered as per schedule set out in clause 2.04:",
+        "after": "2.02 The Contract Price shall subject to the provisions of clause 5 hereof, be paid by th",
+        "value": "{goods_priced}"
+      },
+      {
+        "id": 9,
+        "placeholder": "______",
+        "before": "Institution a collateral (s), substantially in the form and substance attached hereto as",
+        "after": ", (the \"_______\"); (b) Execute such further deeds and documents as may from time to time b",
+        "value": "{security_ref}"
+      },
+      {
+        "id": 10,
+        "placeholder": "_______",
+        "before": "collateral (s), substantially in the form and substance attached hereto as ______, (the \"",
+        "after": "\"); (b) Execute such further deeds and documents as may from time to time be required by t",
+        "value": "{security_title}"
+      },
+      {
+        "id": 11,
+        "placeholder": "____",
+        "before": "purpose of more fully securing and or perfecting the security created in favour of Within",
+        "after": "days of signing this Agreement Rs. [insert amount] On [insert date] ------------------- O",
+        "value": "0"
+      },
+      {
+        "id": 12,
+        "placeholder": "[insert amount]",
+        "before": "rfecting the security created in favour of Within ____ days of signing this Agreement Rs.",
+        "after": "On [insert date] ------------------- On [insert date] ------------------- On [insert date",
+        "value": "{milestone_amount}"
+      },
+      {
+        "id": 13,
+        "placeholder": "[insert date]",
+        "before": "ty created in favour of Within ____ days of signing this Agreement Rs. [insert amount] On",
+        "after": "------------------- On [insert date] ------------------- On [insert date] ---------------",
+        "value": "{milestone_date1}"
+      },
+      {
+        "id": 14,
+        "placeholder": "-------------------",
+        "before": "favour of Within ____ days of signing this Agreement Rs. [insert amount] On [insert date]",
+        "after": "On [insert date] ------------------- On [insert date] ------------------- On delivery ---",
+        "value": "{milestone_currency}"
+      },
+      {
+        "id": 15,
+        "placeholder": "[insert date]",
+        "before": "ays of signing this Agreement Rs. [insert amount] On [insert date] ------------------- On",
+        "after": "------------------- On [insert date] ------------------- On delivery -------------------",
+        "value": "{milestone_date2}"
+      },
+      {
+        "id": 16,
+        "placeholder": "-------------------",
+        "before": "this Agreement Rs. [insert amount] On [insert date] ------------------- On [insert date]",
+        "after": "On [insert date] ------------------- On delivery ------------------- TOTAL Description of",
+        "value": "{milestone_currency}"
+      },
+      {
+        "id": 17,
+        "placeholder": "[insert date]",
+        "before": "sert amount] On [insert date] ------------------- On [insert date] ------------------- On",
+        "after": "------------------- On delivery ------------------- TOTAL Description of Goods Date: Quan",
+        "value": "{milestone_date3}"
+      },
+      {
+        "id": 18,
+        "placeholder": "-------------------",
+        "before": "n [insert date] ------------------- On [insert date] ------------------- On [insert date]",
+        "after": "On delivery ------------------- TOTAL Description of Goods Date: Quantity the Institutio",
+        "value": "{milestone_currency}"
+      },
+      {
+        "id": 19,
+        "placeholder": "-------------------",
+        "before": "--- On [insert date] ------------------- On [insert date] ------------------- On delivery",
+        "after": "TOTAL Description of Goods Date: Quantity the Institution; and (c) Create such other se",
+        "value": "{milestone_currency}"
+      },
+      {
+        "id": 20,
+        "placeholder": "----------",
+        "before": "the Manufacturer/Supplier or any of its assets; d) It shall inform the Institution within",
+        "after": "Business Days of an event or happening which may have an adverse effect on the financial",
+        "value": "3"
+      },
+      {
+        "id": 21,
+        "placeholder": "[, as applicable in Pakistan]",
+        "before": "ed in the financial statements or not as per applicable International Accounting Standards",
+        "after": ". 7. UNDERTAKING 7.01 The Manufacturer/Supplier covenants to and undertakes with the Inst",
+        "value": "{accounting_location}"
+      },
+      {
+        "id": 22,
+        "placeholder": "___",
+        "before": "eceipt by the Institution (in form and substance acceptable to the Institution), at least",
+        "after": "Business Days prior to the first date on which the payment is to be made in accordance wi",
+        "value": "3"
+      },
+      {
+        "id": 23,
+        "placeholder": "____",
+        "before": "Certified copies of the Manufacturer/Supplier's audited financial statements for the last",
+        "after": "years (d) The Written Offer and Cost Estimate; 8.02 The obligation of the Institution t",
+        "value": "3"
+      },
+      {
+        "id": 24,
+        "placeholder": "__________",
+        "before": "found to be incorrect; c) Any Indebtedness of the Manufacturer/Supplier in excess of Rs.",
+        "after": "(Rupees ________________only) is not paid when due or becomes due or capable of being dec",
+        "value": "{threshold}"
+      },
+      {
+        "id": 25,
+        "placeholder": "________________",
+        "before": "ect; c) Any Indebtedness of the Manufacturer/Supplier in excess of Rs.__________ (Rupees",
+        "after": "only) is not paid when due or becomes due or capable of being declared due; d) Any author",
+        "value": "{threshold_words}"
+      },
+      {
+        "id": 26,
+        "placeholder": "_______",
+        "before": "s, charges and expenses under the Principal Documents shall remain unpaid for a period of",
+        "after": "days after notice of demand in that behalf has been received by the Manufacturer/ Supplie",
+        "value": "30"
+      },
+      {
+        "id": 27,
+        "placeholder": "______",
+        "before": "ents and are not delivered by the Delivery Date, the Contract Price will be reduced by Rs.",
+        "after": "per day unless an extension is mutually agreed. 10.02 When any amount is required to be p",
+        "value": "0"
+      },
+      {
+        "id": 28,
+        "placeholder": "------",
+        "before": "s to pay directly to the Charity Fund, constituted by the Institution, a sum calculated @",
+        "after": "% per annum of the total amount payable for the entire period of default. Payment by the",
+        "value": "0"
+      },
+      {
+        "id": 29,
+        "placeholder": "________",
+        "before": "d by and shall be construed in accordance with the Pakistani law. All competent courts at",
+        "after": "shall have the non-exclusive jurisdiction to hear and determine any action, claim or proc",
+        "value": "{city}"
+      },
+      {
+        "id": 30,
+        "placeholder": "[insert name of the Institution]",
+        "before": "duly executed on the date and year first aforementioned. WITNESSES: For and on behalf of",
+        "after": "1 ________________ ________________ 2 ________________ ________________ For and on behalf",
+        "value": "{institution}"
+      },
+      {
+        "id": 31,
+        "placeholder": "________________",
+        "before": "first aforementioned. WITNESSES: For and on behalf of [insert name of the Institution] 1",
+        "after": "________________ 2 ________________ ________________ For and on behalf of 1 _____________",
+        "value": "{witness1}"
+      },
+      {
+        "id": 32,
+        "placeholder": "________________",
+        "before": "ned. WITNESSES: For and on behalf of [insert name of the Institution] 1 ________________",
+        "after": "2 ________________ ________________ For and on behalf of 1 ________________ _____________",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 33,
+        "placeholder": "________________",
+        "before": "r and on behalf of [insert name of the Institution] 1 ________________ ________________ 2",
+        "after": "________________ For and on behalf of 1 ________________ ________________ 2 _____________",
+        "value": "{witness2}"
+      },
+      {
+        "id": 34,
+        "placeholder": "________________",
+        "before": "f [insert name of the Institution] 1 ________________ ________________ 2 ________________",
+        "after": "For and on behalf of 1 ________________ ________________ 2 ________________ _____________",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 35,
+        "placeholder": "________________",
+        "before": "_____________ ________________ 2 ________________ ________________ For and on behalf of 1",
+        "after": "________________ 2 ________________ ________________ APPENDIX- A WRITTEN OFFER Date: ___",
+        "value": "{witness1}"
+      },
+      {
+        "id": 36,
+        "placeholder": "________________",
+        "before": "_____________ 2 ________________ ________________ For and on behalf of 1 ________________",
+        "after": "2 ________________ ________________ APPENDIX- A WRITTEN OFFER Date: _______________ To",
+        "value": "{signature_supplier}"
+      },
+      {
+        "id": 37,
+        "placeholder": "________________",
+        "before": "_____________ ________________ For and on behalf of 1 ________________ ________________ 2",
+        "after": "________________ APPENDIX- A WRITTEN OFFER Date: _______________ To ___________________",
+        "value": "{witness2}"
+      },
+      {
+        "id": 38,
+        "placeholder": "________________",
+        "before": "_____________ For and on behalf of 1 ________________ ________________ 2 ________________",
+        "after": "APPENDIX- A WRITTEN OFFER Date: _______________ To __________________________________",
+        "value": "{signature_supplier}"
+      },
+      {
+        "id": 39,
+        "placeholder": "_______________",
+        "before": "___ ________________ 2 ________________ ________________ APPENDIX- A WRITTEN OFFER Date:",
+        "after": "To __________________________________ [Insert name and address of the Institution] Dear",
+        "value": "{date}"
+      },
+      {
+        "id": 40,
+        "placeholder": "__________________________________",
+        "before": "2 ________________ ________________ APPENDIX- A WRITTEN OFFER Date: _______________ To",
+        "after": "[Insert name and address of the Institution] Dear Sirs, Written offer for manufacture of",
+        "value": "{institution}"
+      },
+      {
+        "id": 41,
+        "placeholder": "[Insert name and address of the Institution]",
+        "before": "APPENDIX- A WRITTEN OFFER Date: _______________ To __________________________________",
+        "after": "Dear Sirs, Written offer for manufacture of Goods [insert description] Reference our rece",
+        "value": "{institution_contact}"
+      },
+      {
+        "id": 42,
+        "placeholder": "[insert description]",
+        "before": "rt name and address of the Institution] Dear Sirs, Written offer for manufacture of Goods",
+        "after": "Reference our recent meeting, we are pleased to confirm our willingness to manufacture th",
+        "value": "{goods}"
+      },
+      {
+        "id": 43,
+        "placeholder": "---------------------------------------------------------------------------------------------------------------------------------",
+        "before": "re the Goods subject to the following terms and conditions: (a) Description of the Goods:",
+        "after": "-----------------------------------------------------------------------------------------",
+        "value": "{goods}"
+      },
+      {
+        "id": 44,
+        "placeholder": "---------------------------------------------------------------------------------------------------------------------------------",
+        "before": "-----------------------------------------------------------------------------------------",
+        "after": "-----------------------------------------------------------------------------------------",
+        "value": "{specifications}"
+      },
+      {
+        "id": 45,
+        "placeholder": "---------------------------------------------------------------------------------------------------------------------------------",
+        "before": "-----------------------------------------------------------------------------------------",
+        "after": "---------------------------------* (attach details if required) (b) Terms of delivery: (",
+        "value": "{quantity_text}"
+      },
+      {
+        "id": 46,
+        "placeholder": "---------------------------------",
+        "before": "-----------------------------------------------------------------------------------------",
+        "after": "* (attach details if required) (b) Terms of delivery: (c) Terms of Payment: (d) Validity",
+        "value": "{delivery_terms}"
+      },
+      {
+        "id": 47,
+        "placeholder": "______________________________________",
+        "before": "irectly or indirectly. Yours faithfully, For and on Behalf of the Manufacturer/Supplier",
+        "after": "APPENDIX- B GOODS RECEIVING NOTE Date_______________ To _______________________________",
+        "value": "{signature_supplier}"
+      },
+      {
+        "id": 48,
+        "placeholder": "_______________",
+        "before": "er/Supplier ______________________________________ APPENDIX- B GOODS RECEIVING NOTE Date",
+        "after": "To ____________________________________________ [Insert name and address of the Manufac",
+        "value": "{delivery_date}"
+      },
+      {
+        "id": 49,
+        "placeholder": "____________________________________________",
+        "before": "_______________________________ APPENDIX- B GOODS RECEIVING NOTE Date_______________ To",
+        "after": "[Insert name and address of the Manufacturer/Supplier] Dear Sirs, Istisna Agreement dat",
+        "value": "{supplier}"
+      },
+      {
+        "id": 50,
+        "placeholder": "[Insert name and address of the Manufacturer/Supplier]",
+        "before": "OODS RECEIVING NOTE Date_______________ To ____________________________________________",
+        "after": "Dear Sirs, Istisna Agreement dated [ ] - Goods Receiving Note Reference to the above, we",
+        "value": "{supplier_contact}"
+      },
+      {
+        "id": 51,
+        "placeholder": "[ ]",
+        "before": "Insert name and address of the Manufacturer/Supplier] Dear Sirs, Istisna Agreement dated",
+        "after": "- Goods Receiving Note Reference to the above, we are pleased to inform you that we have",
+        "value": "{date}"
+      },
+      {
+        "id": 52,
+        "placeholder": "____________________________",
+        "before": "claims or liabilities against you. Yours faithfully, For and on Behalf of (Institution)",
+        "after": "AGREEMENT TO SELL THIS AGREEMENT TO SELL (the \"Agreement\") is made at__________ on _____",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 53,
+        "placeholder": "__________",
+        "before": "___________________ AGREEMENT TO SELL THIS AGREEMENT TO SELL (the \"Agreement\") is made at",
+        "after": "on _______ day of _________ by and BETWEEN _____________________________________________",
+        "value": "{city}"
+      },
+      {
+        "id": 54,
+        "placeholder": "_______",
+        "before": "_____ AGREEMENT TO SELL THIS AGREEMENT TO SELL (the \"Agreement\") is made at__________ on",
+        "after": "day of _________ by and BETWEEN ________________________________________________________",
+        "value": "{day}"
+      },
+      {
+        "id": 55,
+        "placeholder": "_________",
+        "before": "TO SELL THIS AGREEMENT TO SELL (the \"Agreement\") is made at__________ on _______ day of",
+        "after": "by and BETWEEN ___________________________________________________________________, (her",
+        "value": "{month_year}"
+      },
+      {
+        "id": 56,
+        "placeholder": "___________________________________________________________________",
+        "before": "SELL (the \"Agreement\") is made at__________ on _______ day of _________ by and BETWEEN",
+        "after": ", (hereinafter referred to as the \"Institution\" which expression shall where the context s",
+        "value": "{institution}"
+      },
+      {
+        "id": 57,
+        "placeholder": "___________________________________________________",
+        "before": "o permits mean and include its successors in interest and assigns) of the one part. AND",
+        "after": "(hereinafter referred to as the \"Customer\") which expression shall where the context so p",
+        "value": "{client}"
+      },
+      {
+        "id": 58,
+        "placeholder": "_________________________________________",
+        "before": "g the goods described in the Appendix 1 (\" Goods\") from the Manufacturer/ Supplier namely",
+        "after": "(\" Manufacturer/ Supplier\"); and 2. The Customer has requested vide written request dated",
+        "value": "{supplier}"
+      },
+      {
+        "id": 59,
+        "placeholder": "..................",
+        "before": "(\" Manufacturer/ Supplier\"); and 2. The Customer has requested vide written request dated",
+        "after": "to purchase the Goods from the Institution on the terms and condition contained hereinaft",
+        "value": "{date}"
+      },
+      {
+        "id": 60,
+        "placeholder": "_____________________",
+        "before": "ll and the Customer agrees to purchase the Goods from the Institution at the price of Rs.",
+        "after": ". 2. That the Customer shall pay the price of the Goods in advance to the Institution upon",
+        "value": "{sale_price}"
+      },
+      {
+        "id": 61,
+        "placeholder": "[insert name of the Institution]",
+        "before": "duly executed on the date and year first aforementioned. WITNESSES: For and on behalf of",
+        "after": "1 ________________ ________________ 2 ________________ ________________ For and on behalf",
+        "value": "{institution}"
+      },
+      {
+        "id": 62,
+        "placeholder": "________________",
+        "before": "first aforementioned. WITNESSES: For and on behalf of [insert name of the Institution] 1",
+        "after": "________________ 2 ________________ ________________ For and on behalf of 1 _____________",
+        "value": "{witness1}"
+      },
+      {
+        "id": 63,
+        "placeholder": "________________",
+        "before": "ned. WITNESSES: For and on behalf of [insert name of the Institution] 1 ________________",
+        "after": "2 ________________ ________________ For and on behalf of 1 ________________ _____________",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 64,
+        "placeholder": "________________",
+        "before": "r and on behalf of [insert name of the Institution] 1 ________________ ________________ 2",
+        "after": "________________ For and on behalf of 1 ________________ ________________ 2 _____________",
+        "value": "{witness2}"
+      },
+      {
+        "id": 65,
+        "placeholder": "________________",
+        "before": "f [insert name of the Institution] 1 ________________ ________________ 2 ________________",
+        "after": "For and on behalf of 1 ________________ ________________ 2 ________________ _____________",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 66,
+        "placeholder": "________________",
+        "before": "_____________ ________________ 2 ________________ ________________ For and on behalf of 1",
+        "after": "________________ 2 ________________ ________________",
+        "value": "{witness1}"
+      },
+      {
+        "id": 67,
+        "placeholder": "________________",
+        "before": "_____________ 2 ________________ ________________ For and on behalf of 1 ________________",
+        "after": "2 ________________ ________________",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 68,
+        "placeholder": "________________",
+        "before": "_____________ ________________ For and on behalf of 1 ________________ ________________ 2",
+        "after": "________________",
+        "value": "{witness2}"
+      },
+      {
+        "id": 69,
+        "placeholder": "________________",
+        "before": "_____________ For and on behalf of 1 ________________ ________________ 2 ________________",
+        "after": "",
+        "value": "{signature_client}"
+      }
+    ],
+    "title": "Istisna manufacture"
+  },
+  "ijarah": {
+    "file": "MODEL LEASE AGREEMENT.pdf",
+    "sha256": "4cf815772afc21bbf9bd28ee9d5f1412655b78cfc2102b42d9c870f7c5b7b655",
+    "source_pages": 19,
+    "fields": [
+      {
+        "id": 1,
+        "placeholder": "________",
+        "before": "MODEL LEASE AGREEMENT THIS LEASE AGREEMENT (the \"Agreement\") is made at",
+        "after": "on _____________ day of _____________ by and BETWEEN __________________________________",
+        "value": "{city}"
+      },
+      {
+        "id": 2,
+        "placeholder": "_____________",
+        "before": "MODEL LEASE AGREEMENT THIS LEASE AGREEMENT (the \"Agreement\") is made at ________ on",
+        "after": "day of _____________ by and BETWEEN ___________________________________________________",
+        "value": "{day}"
+      },
+      {
+        "id": 3,
+        "placeholder": "_____________",
+        "before": "MENT THIS LEASE AGREEMENT (the \"Agreement\") is made at ________ on _____________ day of",
+        "after": "by and BETWEEN _______________________________________________________________, (herein",
+        "value": "{month_year}"
+      },
+      {
+        "id": 4,
+        "placeholder": "_______________________________________________________________",
+        "before": "e \"Agreement\") is made at ________ on _____________ day of _____________ by and BETWEEN",
+        "after": ", (hereinafter referred to as the \"Lessee\" which expression shall where the context so per",
+        "value": "{client}"
+      },
+      {
+        "id": 5,
+        "placeholder": "_______________________________________________________________",
+        "before": "mean and include its successors in interest and permitted assigns) of the one part AND",
+        "after": ", (hereinafter referred to as the \"Lessor\" which expression shall where the context so per",
+        "value": "{institution}"
+      },
+      {
+        "id": 6,
+        "placeholder": "__",
+        "before": "or has, acting on the Written Request of the Lessee which is attached as Lease Document #",
+        "after": "of this Agreement, acquired/beneficially acquired the requested assets and have agreed to",
+        "value": "1"
+      },
+      {
+        "id": 7,
+        "placeholder": "__",
+        "before": "re subject to Lease under this Agreement, more particularly described in Lease Document #",
+        "after": "; \"Lessee\" means the Client and is defined in the preamble; \"Lessor\" means the Instituti",
+        "value": "2"
+      },
+      {
+        "id": 8,
+        "placeholder": "[insert description of assets in respect of which charge/ mortgage may be created]",
+        "before": "ents\" and \"Security\" is defined in Clause 4.01; \"Secured Assets\" means all the Lessee's",
+        "after": "; \"Specified Location\" shall mean ______________ or such other location as the Lessor may",
+        "value": "{collateral}"
+      },
+      {
+        "id": 9,
+        "placeholder": "______________",
+        "before": "ts in respect of which charge/ mortgage may be created]; \"Specified Location\" shall mean",
+        "after": "or such other location as the Lessor may agree in writing; \"Supplier\" means the Supplier",
+        "value": "{delivery_address}"
+      },
+      {
+        "id": 10,
+        "placeholder": "__",
+        "before": "te on which the Lease commences under this Agreement and is given in the Lease Document #",
+        "after": "; 1.03 Clause headings and the table of contents are inserted for convenience of referenc",
+        "value": "2"
+      },
+      {
+        "id": 11,
+        "placeholder": "[-------]",
+        "before": "onditions herein set forth. 2.02 The Lessee covenants and agrees to pay the amount of Rs.",
+        "after": "to the Lessor on execution of this Agreement as a security deposit to be applied in the a",
+        "value": "{deposit}"
+      },
+      {
+        "id": 12,
+        "placeholder": "__",
+        "before": "respect to the Leased Assets shall be as set-forth in the aforementioned Lease Document #",
+        "after": "attached hereto. The lease rental shall be payable monthly/quarterly/semi-annually in adv",
+        "value": "2"
+      },
+      {
+        "id": 13,
+        "placeholder": "__",
+        "before": "/quarterly/semi-annually in advance/ arrears on the day mentioned in the Lease Document #",
+        "after": "during the term of the Lease. 3.02 This Agreement or the lease hereunder in respect of t",
+        "value": "2"
+      },
+      {
+        "id": 14,
+        "placeholder": "-------",
+        "before": "y with the mutual consent of the parties hereto. Such termination shall take effect after",
+        "after": "days from the date of parties' consent. This Agreement and all its terms and conditions s",
+        "value": "30"
+      },
+      {
+        "id": 15,
+        "placeholder": "____",
+        "before": "llateral(s), substantially in the form and substance attached hereto as Lease Document #",
+        "after": "(the \"_______\"); (b) Execute such further deeds and documents as may from time to time b",
+        "value": "5"
+      },
+      {
+        "id": 16,
+        "placeholder": "_______",
+        "before": ", substantially in the form and substance attached hereto as Lease Document # ____ (the \"",
+        "after": "\"); (b) Execute such further deeds and documents as may from time to time be required by",
+        "value": "{security_title}"
+      },
+      {
+        "id": 17,
+        "placeholder": "__",
+        "before": "ing as aforesaid. 7. DELIVERY 7.01 The Leased Assets as set out in the Lease Document #",
+        "after": "attached hereto shall be delivered by the Lessor to the place stated in the Lease Documen",
+        "value": "2"
+      },
+      {
+        "id": 18,
+        "placeholder": "__",
+        "before": "ached hereto shall be delivered by the Lessor to the place stated in the Lease Document #",
+        "after": ". All costs incurred in connection with delivery of the Leased Assets up to the point of d",
+        "value": "2"
+      },
+      {
+        "id": 19,
+        "placeholder": "__",
+        "before": "livery of the Leased Assets up to the point of delivery as stated in the Lease Document #",
+        "after": "shall be borne by the Lessor. Further, the Lessee shall notify the Lessor in writing of t",
+        "value": "2"
+      },
+      {
+        "id": 20,
+        "placeholder": "__",
+        "before": "the Lessor a receipt or acceptance thereof in the form annexed hereto as Lease Document #",
+        "after": ". By such acceptance, the Lessee agrees and covenants that such Leased Assets are in good",
+        "value": "3"
+      },
+      {
+        "id": 21,
+        "placeholder": "__",
+        "before": "sed Assets shall be at the Lessor's place of business or as specified in Lease Document #",
+        "after": "hereto attached. Any structural alteration, special equipment or material alteration here",
+        "value": "2"
+      },
+      {
+        "id": 22,
+        "placeholder": "[Insert period]",
+        "before": "e lease rentals payable under this Agreement remain outstanding for a period of more than",
+        "after": "; (c) Any Indebtedness, including lease rentals outstanding under this Agreement, of the",
+        "value": "30-days"
+      },
+      {
+        "id": 23,
+        "placeholder": "__________",
+        "before": ", including lease rentals outstanding under this Agreement, of the Lessee in excess of Rs.",
+        "after": "(Rupees ________________only) is not paid when due or becomes due or capable of being dec",
+        "value": "{threshold}"
+      },
+      {
+        "id": 24,
+        "placeholder": "________________",
+        "before": "entals outstanding under this Agreement, of the Lessee in excess of Rs.__________ (Rupees",
+        "after": "only) is not paid when due or becomes due or capable of being declared due prior to its st",
+        "value": "{threshold_words}"
+      },
+      {
+        "id": 25,
+        "placeholder": "___",
+        "before": "s, charges and expenses under the Principal Documents shall remain unpaid for a period of",
+        "after": "days after notice of demand in that behalf has been received by the Lessee from the Lesso",
+        "value": "30"
+      },
+      {
+        "id": 26,
+        "placeholder": "------",
+        "before": "s to pay directly to the Charity Fund, constituted by the Institution, a sum calculated @",
+        "after": "% per annum for the entire period of default, calculated on the total amount of the obliga",
+        "value": "0"
+      },
+      {
+        "id": 27,
+        "placeholder": "________",
+        "before": "d by and shall be construed in accordance with the Pakistani law. All competent courts at",
+        "after": "shall have the non-exclusive jurisdiction to hear and determine any action, claim or proc",
+        "value": "{city}"
+      },
+      {
+        "id": 28,
+        "placeholder": "______________________________",
+        "before": "is Agreement to be duly executed on the date and year first aforementioned. WITNESSES: 1.",
+        "after": "2. ______________________________ For and on behalf of the Lessee For and on behalf of",
+        "value": "{witness1}"
+      },
+      {
+        "id": 29,
+        "placeholder": "______________________________",
+        "before": "the date and year first aforementioned. WITNESSES: 1. ______________________________ 2.",
+        "after": "For and on behalf of the Lessee For and on behalf of [insert name of the Lessor] Docume",
+        "value": "{witness2}"
+      },
+      {
+        "id": 30,
+        "placeholder": "[insert name of the Lessor]",
+        "before": "2. ______________________________ For and on behalf of the Lessee For and on behalf of",
+        "after": "Document 1 WRITTEN REQUEST [Date]__________________ To: ___________________________ [In",
+        "value": "{institution}"
+      },
+      {
+        "id": 31,
+        "placeholder": "[Date]",
+        "before": "f the Lessee For and on behalf of [insert name of the Lessor] Document 1 WRITTEN REQUEST",
+        "after": "__________________ To: ___________________________ [Insert name and address of the Lessor",
+        "value": "{date}"
+      },
+      {
+        "id": 32,
+        "placeholder": "__________________",
+        "before": "Lessee For and on behalf of [insert name of the Lessor] Document 1 WRITTEN REQUEST [Date]",
+        "after": "To: ___________________________ [Insert name and address of the Lessor] _______________",
+        "value": "{date}"
+      },
+      {
+        "id": 33,
+        "placeholder": "___________________________",
+        "before": "f of [insert name of the Lessor] Document 1 WRITTEN REQUEST [Date]__________________ To:",
+        "after": "[Insert name and address of the Lessor] _______________________________ Dear Sirs, WRI",
+        "value": "{institution}"
+      },
+      {
+        "id": 34,
+        "placeholder": "[Insert name and address of the Lessor]",
+        "before": "or] Document 1 WRITTEN REQUEST [Date]__________________ To: ___________________________",
+        "after": "_______________________________ Dear Sirs, WRITTEN REQUEST FOR PURCHASE OF ASSETS (1) W",
+        "value": "{institution_contact}"
+      },
+      {
+        "id": 35,
+        "placeholder": "_______________________________",
+        "before": "_______________ To: ___________________________ [Insert name and address of the Lessor]",
+        "after": "Dear Sirs, WRITTEN REQUEST FOR PURCHASE OF ASSETS (1) We request you to kindly procure t",
+        "value": "{institution_address}"
+      },
+      {
+        "id": 36,
+        "placeholder": "[Insert name of the Lessee]",
+        "before": "le or regulation, whether directly or indirectly. Yours faithfully, For and on behalf of",
+        "after": "_______________________ Sr. No. Specification of Assets Amount Document 2 SCHEDULE Thi",
+        "value": "{client}"
+      },
+      {
+        "id": 37,
+        "placeholder": "_______________________",
+        "before": "ectly or indirectly. Yours faithfully, For and on behalf of [Insert name of the Lessee]",
+        "after": "Sr. No. Specification of Assets Amount Document 2 SCHEDULE This Schedule shall be attac",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 38,
+        "placeholder": "_________________________________________",
+        "before": "shall be attached to and form an integral part of the Lease Agreement Between M/s (Lessor)",
+        "after": "and (Lessee) ______________________________________________________________________. The L",
+        "value": "{institution}"
+      },
+      {
+        "id": 39,
+        "placeholder": "______________________________________________________________________",
+        "before": "Lease Agreement Between M/s (Lessor)_________________________________________and (Lessee)",
+        "after": ". The Lessee authorizes the Lessor to procure the under noted asset(s), to be leased in te",
+        "value": "{client}"
+      },
+      {
+        "id": 40,
+        "placeholder": "_____________________",
+        "before": "t the Head Office of Lessor or as agreed between the Parties. Commencement date of Lease:",
+        "after": "Duly authorized by the Lessees:_____________________ The amount of Security Deposit Rs.",
+        "value": "{lease_start}"
+      },
+      {
+        "id": 41,
+        "placeholder": "_____________________",
+        "before": "arties. Commencement date of Lease: _____________________ Duly authorized by the Lessees:",
+        "after": "The amount of Security Deposit Rs. __________________ shall be adjusted towardsResidual",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 42,
+        "placeholder": "__________________",
+        "before": "Duly authorized by the Lessees:_____________________ The amount of Security Deposit Rs.",
+        "after": "shall be adjusted towardsResidual Value at the end of lease period OR The amount of Resid",
+        "value": "{deposit}"
+      },
+      {
+        "id": 43,
+        "placeholder": "_________________",
+        "before": "sted towardsResidual Value at the end of lease period OR The amount of Residual Value Rs.",
+        "after": "shall be payable by the Lessee at the end of Lease Period. Sr. No. Specification of Asset",
+        "value": "0"
+      },
+      {
+        "id": 44,
+        "placeholder": "[-------------]",
+        "before": "fication of Assets Amount Term of Lease Document 3 RECEIPT OF LEASED ASSETS AGREEMENT NO",
+        "after": "DATED [-------------] Description of the Assets: ---------------------------------------",
+        "value": "{reference}"
+      },
+      {
+        "id": 45,
+        "placeholder": "[-------------]",
+        "before": "unt Term of Lease Document 3 RECEIPT OF LEASED ASSETS AGREEMENT NO[-------------] DATED",
+        "after": "Description of the Assets: --------------------------------------------------- --------",
+        "value": "{date}"
+      },
+      {
+        "id": 46,
+        "placeholder": "---------------------------------------------------",
+        "before": "SED ASSETS AGREEMENT NO[-------------] DATED [-------------] Description of the Assets:",
+        "after": "------------------------------------------------------------------------------------ --",
+        "value": "{goods}"
+      },
+      {
+        "id": 47,
+        "placeholder": "------------------------------------------------------------------------------------",
+        "before": "-------] Description of the Assets: ---------------------------------------------------",
+        "after": "------------------------------------------------------------------------------------ The",
+        "value": "{specifications}"
+      },
+      {
+        "id": 48,
+        "placeholder": "------------------------------------------------------------------------------------",
+        "before": "-- ------------------------------------------------------------------------------------",
+        "after": "The Assets described above are received complete in all respect and in perfect working or",
+        "value": "{quantity_text}"
+      },
+      {
+        "id": 49,
+        "placeholder": "__________",
+        "before": "eceived complete in all respect and in perfect working order and condition. Delivery dated",
+        "after": "1. Signature_________________________ Full Name________________________ S/o.D/o.W/o.___",
+        "value": "{lease_start}"
+      },
+      {
+        "id": 50,
+        "placeholder": "_________________________",
+        "before": "respect and in perfect working order and condition. Delivery dated__________ 1. Signature",
+        "after": "Full Name________________________ S/o.D/o.W/o.______________________ Res.Address______",
+        "value": "{signature_client}"
+      },
+      {
+        "id": 51,
+        "placeholder": "________________________",
+        "before": "r and condition. Delivery dated__________ 1. Signature_________________________ Full Name",
+        "after": "S/o.D/o.W/o.______________________ Res.Address______________________ _________________",
+        "value": "{client_signatory}"
+      },
+      {
+        "id": 52,
+        "placeholder": "______________________",
+        "before": "___ 1. Signature_________________________ Full Name________________________ S/o.D/o.W/o.",
+        "after": "Res.Address______________________ _________________________________ NIC No.___________",
+        "value": "{parent_name}"
+      },
+      {
+        "id": 53,
+        "placeholder": "______________________",
+        "before": "______ Full Name________________________ S/o.D/o.W/o.______________________ Res.Address",
+        "after": "_________________________________ NIC No.__________________________ Designation_______",
+        "value": "{client_address}"
+      },
+      {
+        "id": 54,
+        "placeholder": "_________________________________",
+        "before": "_________________ S/o.D/o.W/o.______________________ Res.Address______________________",
+        "after": "NIC No.__________________________ Designation_______________________ 2. Signature_____",
+        "value": "{city}"
+      },
+      {
+        "id": 55,
+        "placeholder": "__________________________",
+        "before": "___________ Res.Address______________________ _________________________________ NIC No.",
+        "after": "Designation_______________________ 2. Signature_________________________ Full Name____",
+        "value": "{witness_id1}"
+      },
+      {
+        "id": 56,
+        "placeholder": "_______________________",
+        "before": "_______ _________________________________ NIC No.__________________________ Designation",
+        "after": "2. Signature_________________________ Full Name________________________ S/o.D/o.W/o.__",
+        "value": "{designation}"
+      },
+      {
+        "id": 57,
+        "placeholder": "_________________________",
+        "before": "_____ NIC No.__________________________ Designation_______________________ 2. Signature",
+        "after": "Full Name________________________ S/o.D/o.W/o.______________________ Res.Address______",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 58,
+        "placeholder": "________________________",
+        "before": "____ Designation_______________________ 2. Signature_________________________ Full Name",
+        "after": "S/o.D/o.W/o.______________________ Res.Address______________________ _________________",
+        "value": "{bank_signatory}"
+      },
+      {
+        "id": 59,
+        "placeholder": "______________________",
+        "before": "__ 2. Signature_________________________ Full Name________________________ S/o.D/o.W/o.",
+        "after": "Res.Address______________________ ________________________________ NIC No.____________",
+        "value": "{parent_name}"
+      },
+      {
+        "id": 60,
+        "placeholder": "______________________",
+        "before": "______ Full Name________________________ S/o.D/o.W/o.______________________ Res.Address",
+        "after": "________________________________ NIC No._________________________ Designation_________",
+        "value": "{institution_address}"
+      },
+      {
+        "id": 61,
+        "placeholder": "________________________________",
+        "before": "_________________ S/o.D/o.W/o.______________________ Res.Address______________________",
+        "after": "NIC No._________________________ Designation_______________________ Stamp ____________",
+        "value": "{city}"
+      },
+      {
+        "id": 62,
+        "placeholder": "_________________________",
+        "before": "____________ Res.Address______________________ ________________________________ NIC No.",
+        "after": "Designation_______________________ Stamp ______________ SIGNED for and on behalf of th",
+        "value": "{witness_id2}"
+      },
+      {
+        "id": 63,
+        "placeholder": "_______________________",
+        "before": "_________ ________________________________ NIC No._________________________ Designation",
+        "after": "Stamp ______________ SIGNED for and on behalf of the Lessor by: -----------------------",
+        "value": "{designation}"
+      },
+      {
+        "id": 64,
+        "placeholder": "______________",
+        "before": "____________ NIC No._________________________ Designation_______________________ Stamp",
+        "after": "SIGNED for and on behalf of the Lessor by: ----------------------- Dated:_______________",
+        "value": "{stamp}"
+      },
+      {
+        "id": 65,
+        "placeholder": "-----------------------",
+        "before": "_______________________ Stamp ______________ SIGNED for and on behalf of the Lessor by:",
+        "after": "Dated:_______________ Document 4 UNDERTAKING ____________________________ [Name & Addre",
+        "value": "{signature_bank}"
+      },
+      {
+        "id": 66,
+        "placeholder": "_______________",
+        "before": "______________ SIGNED for and on behalf of the Lessor by: ----------------------- Dated:",
+        "after": "Document 4 UNDERTAKING ____________________________ [Name & Address of the Lessor] ___",
+        "value": "{date}"
+      },
+      {
+        "id": 67,
+        "placeholder": "____________________________",
+        "before": "f of the Lessor by: ----------------------- Dated:_______________ Document 4 UNDERTAKING",
+        "after": "[Name & Address of the Lessor] ____________________________ Dear Sirs In consideration",
+        "value": "{institution}"
+      },
+      {
+        "id": 68,
+        "placeholder": "[Name & Address of the Lessor]",
+        "before": "------------- Dated:_______________ Document 4 UNDERTAKING ____________________________",
+        "after": "____________________________ Dear Sirs In consideration of your entering into the Lease",
+        "value": "{institution_contact}"
+      },
+      {
+        "id": 69,
+        "placeholder": "____________________________",
+        "before": "___ Document 4 UNDERTAKING ____________________________ [Name & Address of the Lessor]",
+        "after": "Dear Sirs In consideration of your entering into the Lease Agreement dated ..............",
+        "value": "{institution_address}"
+      },
+      {
+        "id": 70,
+        "placeholder": ".........................",
+        "before": "______________ Dear Sirs In consideration of your entering into the Lease Agreement dated",
+        "after": "( Lease Agreement), we hereby agree and undertake that if you desire to terminate this Le",
+        "value": "{date}"
+      }
+    ],
+    "title": "Ijarah lease"
+  }
+}

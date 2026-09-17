@@ -1,0 +1,1 @@
+"""Shariah Compliance Copilot API."""

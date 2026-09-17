@@ -1,0 +1,83 @@
+.DS_Store
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.env.local
+.env.*
+!.env.example
+
+# Local service state and secrets
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# Data directories (exclude generated content, keep structure)
+data/uploads/*
+data/reports/*
+data/generated_contracts/compliant/*
+data/generated_contracts/non_compliant/*
+!data/uploads/.gitkeep
+!data/reports/.gitkeep
+!data/generated_contracts/.gitkeep
+
+# Source PDFs and generated analysis artifacts are local-only. The application
+# expects a separately authorised AAOIFI source file at runtime.
+data/*.pdf
+data/generated_contracts/**
+!data/generated_contracts/.gitkeep
+template/*.pdf
+tmp/
+
+# Build and runtime outputs
+*.sqlite
+*.sqlite3
+*.db
+coverage/
+
+# Node
+node_modules/
+dist/
+build/
+*.tsbuildinfo
+
+# Python build
+*.egg-info/
+dist/
+build/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Redis
+dump.rdb
