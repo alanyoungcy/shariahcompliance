@@ -120,6 +120,24 @@ npm run dev
 
 ---
 
+## Start and Stop the Docker Demo
+
+After copying `.env.example` to `.env` and adding the copilot provider values, start every service with one command:
+
+```bash
+./scripts/start.sh
+```
+
+Open [http://127.0.0.1:5173](http://127.0.0.1:5173). Stop the frontend, API, and database together with:
+
+```bash
+./scripts/stop.sh
+```
+
+The stop script preserves the local database volume. To reset all local data deliberately, run `docker compose down -v`.
+
+---
+
 ## Demo Scenarios
 
 ### Scenario 1: Compliant Contract ✅
