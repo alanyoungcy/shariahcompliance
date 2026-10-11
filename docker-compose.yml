@@ -28,6 +28,10 @@ services:
       API_KEY: ${API_KEY:-}
       MODEL: ${MODEL:-claude-opus-5}
       COPILOT_TIMEOUT_SECONDS: ${COPILOT_TIMEOUT_SECONDS:-180}
+      AAOIFI_STANDARDS_PDF: /data/Shariaa-Standards-ENG.pdf
+    volumes:
+      - ./src/backend/app:/app/app:ro
+      - ./data/Shariaa-Standards-ENG.pdf:/data/Shariaa-Standards-ENG.pdf:ro
     depends_on:
       postgres:
         condition: service_healthy
